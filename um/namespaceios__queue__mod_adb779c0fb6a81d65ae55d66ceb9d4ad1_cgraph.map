@@ -1,0 +1,12 @@
+<map id="ios_queue_mod::ios_queue_report" name="ios_queue_mod::ios_queue_report">
+<area shape="rect" id="node2" href="$namespaceios__queue__mod.xhtml#a1cc76d7fb8498cbbc11371ccb2fb8d0f" title="ios_queue_mod::acquire_lock" alt="" coords="204,5,419,32"/>
+<area shape="rect" id="node3" href="$namespaceios__print__mgr.xhtml#abd09d7fc0d2381103fd0889b447f4995" title="ios_print_mgr::ios\l_print" alt="" coords="760,95,899,137"/>
+<area shape="rect" id="node8" href="$namespaceios__common.xhtml#a4b4c79405dd73494ae58cbf0e4f1658b" title="ios_common::ios_ereport" alt="" coords="218,107,405,133"/>
+<area shape="rect" id="node11" href="$namespaceios__queue__mod.xhtml#ace57a6c3d5da7965655bc35a3548b873" title="ios_queue_mod::release_lock" alt="" coords="204,157,419,184"/>
+<area shape="rect" id="node4" href="$namespaceumprintmgr.xhtml#aae44897e556705dbf5e945a26538be9a" title="umprintmgr::umprint" alt="" coords="985,103,1144,129"/>
+<area shape="rect" id="node5" href="$namespaceumprintmgr.xhtml#a088ce22a18d574e9df7ee1850bfb10c7" title="umprintmgr::umprintopenstream" alt="" coords="1192,103,1428,129"/>
+<area shape="rect" id="node6" href="$namespaceumprintmgr.xhtml#ad3a290b30a6e25500eabc0bf90330b77" title="umprintmgr::umprintflush" alt="" coords="1215,153,1405,180"/>
+<area shape="rect" id="node7" href="$namespaceumflush__mod.xhtml#a3a003ab59990bdcb712b443dd5e0d1cd" title="umflush_mod::umflush" alt="" coords="1476,153,1647,180"/>
+<area shape="rect" id="node9" href="$namespaceios__common.xhtml#ade38472c488c019e816ec75cb70ab3cc" title="ios_common::ios_report_md" alt="" coords="467,157,673,184"/>
+<area shape="rect" id="node10" href="$namespaceios__common.xhtml#a9cbfffb6c02387dc317575ab449918b6" title="ios_common::ios_actionname" alt="" coords="721,161,937,188"/>
+</map>

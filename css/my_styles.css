@@ -1,0 +1,197 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 30px auto;
+	max-width: 120em;
+	font-family: sans-serif;
+	color: #333333;
+}
+
+/*nav,
+nav a,*/
+section,
+aside,
+footer {
+	border-radius: 0px 0.5em 0.5em;
+	border: 1px solid;
+	padding: 10px;
+	margin-left: 10px;
+	margin-top: 40px;
+	max-width: 120em;
+}
+main,article {
+	border-radius: 0px 0.5em 0.5em;
+	border: 1px solid;
+	padding: 10px;
+	margin: 10px 10px 10px 30px;
+	max-width: 1200px;
+	min-width:13em;
+	
+}
+
+
+header {
+	/*background: #F1F3F4;
+	border-color: #d5d5d5;*/
+	float: center;
+	max-width:1200px;
+	min-width:13em;
+	margin-top:10px;
+	margin-left:10em;
+}
+
+header img {
+	border-radius: 1em;
+	border-color: #d5d5d5;
+	width: 13em;
+	margin-right: 50px;
+	float: center;
+}
+
+nav {
+    font-family: TheAntiquaFLight, Georgia, "Times New Roman", serif;
+	font-size: 0.91em;
+	float: left;
+	width: 10em;
+	max-width: 10em;
+	padding: 0 5;
+	background: white;
+	border-color: white;
+  position: fixed;
+}
+
+nav ul {
+	padding: 0;
+}
+
+nav li {
+	list-style: none;
+	margin: 0;
+	padding: 0.5em;
+}
+
+nav a {
+	display: block;
+	padding: 0.2em 10px;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #555;
+	color: #333;
+}
+
+nav ul a:hover,
+nav ul a:active {
+	color: #fffbf0;
+	background-color: #555;
+	;
+}
+
+main {
+    font-family: TheAntiquaFLight, Georgia, "Times New Roman", serif;
+	background: white;
+	border-color: #8a9da8;
+	margin-left: 10.5em;
+	min-width: 16em;
+	min-height: 17em;
+	/* Mindestbreite (der Ueberschrift) verhindert Anzeigefehler in modernen Browsern */
+}
+
+#main #claim {
+font-family: TheAntiquaFLight, Georgia, "Times New Roman", serif;
+font-size: 29px;
+line-height: 1em;
+letter-spacing: -0.01em;
+margin-top: 1px;
+margin-bottom: 20px;
+padding: 0em 5em;
+border-color: black;
+border-style: solid;
+border-width: 2px;
+float: center;
+}
+
+
+
+section {
+	background: #F1F3F4;
+	border-color: slateblue;
+}
+
+article {
+	background: white;
+	border-color: #df6c20;
+   border-width: 0px;
+}
+
+article a.link {
+	text-decoration: none;
+	font-size:14;
+	color: grey;
+	
+}
+article a.link:hover {
+	color: black;
+}
+article a.link:active {
+	color: black;
+}
+
+article a:active { 
+	color: blue;
+}
+
+article a:hover {
+	color:blue;
+}
+
+article a.cv_link{
+	text-decoration: none;
+	font-size: 24;
+	color:grey;
+}
+
+article a.pub{
+  text-decoration: none;
+}
+
+article a.cv_link:hover {
+	color:black;
+
+}
+article a.cv_link:activei {
+	color:black;
+}
+
+
+aside {
+	background: #ebf5d7;
+	border-color: #8db243;
+}
+
+
+footer {
+	background: #e4ebf2;
+	border-color: #8a9da8;
+	max-width: 1350px;
+	min-width:250px;
+}
+
+footer p {
+	float: right;
+	margin: 0;
+}
+
+footer a.link {
+  text-decoration: none;
+  font-size:18;
+  color: black;
+}
+

@@ -1,0 +1,10 @@
+<map id="UM_MEMCPY" name="UM_MEMCPY">
+<area shape="rect" id="node2" href="$portutils_8c.xhtml#a3898dfb201848e7e44db57bf63986be7" title="UM_SLEEP" alt="" coords="159,5,248,32"/>
+<area shape="rect" id="node3" href="$portutils_8c.xhtml#a5d5d7fa3c10a94a300b031009d4f223e" title="UM_ADDR_SIZE" alt="" coords="296,5,420,32"/>
+<area shape="rect" id="node4" href="$portutils_8c.xhtml#a77d930660f89937928c5060f6288d4f0" title="UM_ADDR_DIFF" alt="" coords="468,5,591,32"/>
+<area shape="rect" id="node5" href="$portutils_8c.xhtml#a4df173ece58c58b0ff1af7201d242dd0" title="FORT_GET_ENV" alt="" coords="639,5,761,32"/>
+<area shape="rect" id="node6" href="$portutils_8c.xhtml#a5d1448f3a2db588da0bb392babee8932" title="ABORT" alt="" coords="809,5,876,32"/>
+<area shape="rect" id="node7" href="$portutils_8c.xhtml#a0aa785d46f7f7e98cece74907dfa7d45" title="GET_FILE" alt="" coords="924,5,1005,32"/>
+<area shape="rect" id="node8" href="$portutils_8c.xhtml#a5ab22a6dd2df79cb1ed4f9fc82b3fbde" title="WORD_LENGTH" alt="" coords="1053,5,1177,32"/>
+<area shape="rect" id="node9" href="$portutils_8c.xhtml#ab59ff8b247256eaf109edfdebe0906ce" title="DATE_TIME" alt="" coords="1225,5,1320,32"/>
+</map>

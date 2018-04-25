@@ -1,0 +1,6 @@
+<map id="mod_cosp_lidar::cosp_lidar" name="mod_cosp_lidar::cosp_lidar">
+<area shape="rect" id="node2" href="$namespacemod__cosp__simulator.xhtml#a15fa81bbced90659f8b317aa564db4dc" title="%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% " alt="" coords="216,5,373,47"/>
+<area shape="rect" id="node3" href="$namespacemod__cosp.xhtml#a9cd1795a6258f1956410fbd897bd6644" title="mod_cosp::cosp_iter" alt="" coords="421,13,576,39"/>
+<area shape="rect" id="node4" href="$namespacemod__cosp.xhtml#afa9a714cd1a25c250d2a6060049fed9f" title="%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% " alt="" coords="624,13,751,39"/>
+<area shape="rect" id="node5" href="$namespacecosp__main__mod.xhtml#a1b53063ed2ac89adb22ebd3cec76b138" title="Routine that calls the main COSP routine and passes the outputs!&gt; to the diagnostics routine/..." alt="" coords="799,13,1005,39"/>
+</map>

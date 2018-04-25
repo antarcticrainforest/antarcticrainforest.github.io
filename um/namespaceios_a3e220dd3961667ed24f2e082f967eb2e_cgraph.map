@@ -1,0 +1,20 @@
+<map id="ios::ios_init_header" name="ios::ios_init_header">
+<area shape="rect" id="node2" href="$namespaceios__common.xhtml#a2c973e11abf690e8e0215ca4d7e669de" title="ios_common::l_ios_active" alt="" coords="632,131,823,157"/>
+<area shape="rect" id="node3" href="$namespaceios__client__queue.xhtml#afe87459ebf2e7fc1b3915458ad63d06f" title="ios_client_queue::ios\l_init_md" alt="" coords="201,279,360,321"/>
+<area shape="rect" id="node18" href="$namespaceios__client__queue.xhtml#ad45a47e6cd283c6c4b4e7a3a45dd37a6" title="ios_client_queue::ios_send" alt="" coords="629,29,825,56"/>
+<area shape="rect" id="node4" href="$namespaceios__common.xhtml#a31ef4cb4de4333384dba3e441df47903" title="ios_common::assert\l_client" alt="" coords="418,338,571,379"/>
+<area shape="rect" id="node5" href="$namespaceios__common.xhtml#a4b4c79405dd73494ae58cbf0e4f1658b" title="ios_common::ios_ereport" alt="" coords="877,333,1064,360"/>
+<area shape="rect" id="node6" href="$namespaceios__print__mgr.xhtml#abd09d7fc0d2381103fd0889b447f4995" title="ios_print_mgr::ios\l_print" alt="" coords="1409,427,1548,469"/>
+<area shape="rect" id="node12" href="$namespaceios__common.xhtml#a9cbfffb6c02387dc317575ab449918b6" title="ios_common::ios_actionname" alt="" coords="1371,181,1587,208"/>
+<area shape="rect" id="node13" href="$namespaceios__client__queue.xhtml#a8113f81d94a6b3ff7dded6fcd66952a3" title="ios_client_queue::ios\l_querybuffer" alt="" coords="648,537,807,578"/>
+<area shape="rect" id="node15" href="$namespaceios__common.xhtml#a66b4e97a85f71f85bc4f53af5819c234" title="ios_common::io_server\l_for_unit" alt="" coords="408,221,581,262"/>
+<area shape="rect" id="node16" href="$namespaceios__common.xhtml#a7ff67c62d278ec0aad0a979c736996c9" title="ios_common::ioserverno" alt="" coords="879,131,1062,157"/>
+<area shape="rect" id="node17" href="$namespaceios__client__queue.xhtml#a9b6ce597cb41097a50bacde8955fa2e7" title="ios_client_queue::ios\l_consume_client_mem" alt="" coords="409,427,581,469"/>
+<area shape="rect" id="node11" href="$namespaceios__common.xhtml#ade38472c488c019e816ec75cb70ab3cc" title="ios_common::ios_report_md" alt="" coords="1116,333,1323,360"/>
+<area shape="rect" id="node7" href="$namespaceumprintmgr.xhtml#aae44897e556705dbf5e945a26538be9a" title="umprintmgr::umprint" alt="" coords="1635,435,1793,461"/>
+<area shape="rect" id="node8" href="$namespaceumprintmgr.xhtml#a088ce22a18d574e9df7ee1850bfb10c7" title="umprintmgr::umprintopenstream" alt="" coords="1841,435,2077,461"/>
+<area shape="rect" id="node9" href="$namespaceumprintmgr.xhtml#ad3a290b30a6e25500eabc0bf90330b77" title="umprintmgr::umprintflush" alt="" coords="1865,485,2054,512"/>
+<area shape="rect" id="node10" href="$namespaceumflush__mod.xhtml#a3a003ab59990bdcb712b443dd5e0d1cd" title="umflush_mod::umflush" alt="" coords="2125,485,2296,512"/>
+<area shape="rect" id="node14" href="$namespaceios__client__queue.xhtml#a9df32aa21836ca6d0c9912866fc9a3e8" title="ios_client_queue::ios\l_print_protocol_slot" alt="" coords="891,486,1050,527"/>
+<area shape="rect" id="node19" href="$namespaceios__common.xhtml#a3976806ac3c1c9b09b572dff6c77d79f" title="ios_common::ioserverrank" alt="" coords="873,29,1068,56"/>
+</map>

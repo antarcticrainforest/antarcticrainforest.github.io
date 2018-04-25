@@ -1,0 +1,12 @@
+<map id="allocate_lw_diag" name="allocate_lw_diag">
+<area shape="rect" id="node2" href="$rad__ctl_8f90.xhtml#aa6d43f369c6c2f85655ea8fc49f0132e" title="Interface to Atmospheric Physics radiation code. " alt="" coords="184,56,251,83"/>
+<area shape="rect" id="node3" href="$atmos__physics1_8f90.xhtml#ae8d55d89da6ed68f5f8d7e9eec99bc76" title="Interface to Atmos Physics parametrizations before S&#45;L advection. " alt="" coords="299,56,425,83"/>
+<area shape="rect" id="node4" href="$atm__step_8f90.xhtml#ac0ee2467a1a9959b7065fdb8fd27bce4" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="485,5,568,32"/>
+<area shape="rect" id="node8" href="$atm__step__4_a_8f90.xhtml#a2319aa4963e90c64cd78bdcd5f481095" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="473,56,580,83"/>
+<area shape="rect" id="node10" href="$scm__main_8f90.xhtml#a2c730136605550612e094ce51d33a2a5" title="*********************************COPYRIGHT********************************* " alt="" coords="482,107,571,133"/>
+<area shape="rect" id="node5" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="639,5,718,32"/>
+<area shape="rect" id="node6" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="777,31,859,57"/>
+<area shape="rect" id="node7" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="907,31,989,57"/>
+<area shape="rect" id="node9" href="$u__model__4_a_8f90.xhtml#afa05064dab5eba198b461d0928767c7e" title="LL Subroutine: U_MODEL_4A (ENDGAME VERSION) !&gt;LL. " alt="" coords="628,56,729,83"/>
+<area shape="rect" id="node11" href="$scm__shell_8f90.xhtml#ab15255829ee7b5be626b1c0861b40c8d" title="scm_shell is the main calling program for the Single Column Model. " alt="" coords="635,107,722,133"/>
+</map>

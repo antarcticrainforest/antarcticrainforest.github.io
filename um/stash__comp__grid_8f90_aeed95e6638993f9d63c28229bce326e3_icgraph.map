@@ -1,0 +1,20 @@
+<map id="stash_comp_grid" name="stash_comp_grid">
+<area shape="rect" id="node2" href="$multi__spatial_8f90.xhtml#ade4d2e0edcbb3c9113bf99c7f1f8341d" title="Routine: MULTI_SPATIAL &#45;!&gt; " alt="" coords="185,208,292,235"/>
+<area shape="rect" id="node3" href="$stwork_8f90.xhtml#a60176015435dd67d80b42122c78e024e" title="Subroutine STWORK !&gt; " alt="" coords="340,208,407,235"/>
+<area shape="rect" id="node4" href="$stash_8f90.xhtml#aeb6381a2ce8a30249b8dbaff0df2ebb5" title="Subroutine STASH &#45;!&gt; " alt="" coords="455,208,512,235"/>
+<area shape="rect" id="node5" href="$st__diag1_8f90.xhtml#a448077cde050b9a7c4cad654935688ac" title="LL Subroutine ST_DIAG1 !&gt;LL. " alt="" coords="597,208,674,235"/>
+<area shape="rect" id="node6" href="$atm__step_8f90.xhtml#ac0ee2467a1a9959b7065fdb8fd27bce4" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="771,157,853,184"/>
+<area shape="rect" id="node10" href="$atm__step__4_a_8f90.xhtml#a2319aa4963e90c64cd78bdcd5f481095" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="759,259,865,285"/>
+<area shape="rect" id="node12" href="$initdiag_8f90.xhtml#a95a853661b4e10339418e4a8c29b8c9c" title="Calculate diagnostic quantities from the initial atmosphere dump Calculate diagnostic quantities from..." alt="" coords="777,309,847,336"/>
+<area shape="rect" id="node13" href="$st__diag2_8f90.xhtml#ad3935d3ef8da955602b10c37af06aa57" title="LL. " alt="" coords="597,259,674,285"/>
+<area shape="rect" id="node14" href="$st__diag3_8f90.xhtml#a00e9b3afaa3d890cca6a5f8421814074" title="End of Timestep climate diagnostics control routine End of Timestep climate diagnostics control routi..." alt="" coords="597,309,674,336"/>
+<area shape="rect" id="node15" href="$st__mean_8f90.xhtml#a56c57d59e0430c6d123a6e4a366df8e6" title="LL Routine: ST_MEAN &#45;!&gt;LL. " alt="" coords="596,5,675,32"/>
+<area shape="rect" id="node18" href="$atm__step__ac__assim_8f90.xhtml#a1a53479d77027fb4fee329c374bc6062" title="Contains atm_step code for AC assimilation. " alt="" coords="560,56,711,83"/>
+<area shape="rect" id="node19" href="$atm__step__stash_8f90.xhtml#a8e27538bbd9060910e7d0ddcf329f7e0" title="Contains various chunks of code from atm_step &#45; the purpose of each. " alt="" coords="573,157,698,184"/>
+<area shape="rect" id="node7" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="1047,183,1126,209"/>
+<area shape="rect" id="node8" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="1185,208,1267,235"/>
+<area shape="rect" id="node9" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="1315,208,1397,235"/>
+<area shape="rect" id="node11" href="$u__model__4_a_8f90.xhtml#afa05064dab5eba198b461d0928767c7e" title="LL Subroutine: U_MODEL_4A (ENDGAME VERSION) !&gt;LL. " alt="" coords="1036,233,1137,260"/>
+<area shape="rect" id="node16" href="$meandiag_8f90.xhtml#a72a0b96fb4670010dc65680c7e8ac636" title="LL Routine: MEANDIAG !&gt;LL. " alt="" coords="769,56,855,83"/>
+<area shape="rect" id="node17" href="$meanctl_8f90.xhtml#a5bbbf6327297fa87e7a0d9b511eb2b00" title="Subroutine: MEANCTL&#45;!&gt; " alt="" coords="913,208,988,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="umsections_mod::assign_umsections" name="umsections_mod::assign_umsections">
+<area shape="rect" id="node2" href="$readcntl_8f90.xhtml#ae6bac41dbd827e14474d68ebfcdc1e18" title="Subroutine Interface: " alt="" coords="299,5,374,32"/>
+<area shape="rect" id="node5" href="$read__um__nml_8f90.xhtml#abd5ba494391a732ee337f3373db385c5" title="*********************************COPYRIGHT********************************* *************************..." alt="" coords="281,56,392,83"/>
+<area shape="rect" id="node7" href="$namespacercf__readnl__stshcomp__mod.xhtml#ac144b3ee24bc9cec909668e34db30c70" title="Subroutine Rcf_Readnl_stshcomp &#45; reads the STSHCOMP namelist. " alt="" coords="236,107,437,149"/>
+<area shape="rect" id="node3" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="540,5,621,32"/>
+<area shape="rect" id="node4" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="752,5,835,32"/>
+<area shape="rect" id="node6" href="$scm__shell_8f90.xhtml#ab15255829ee7b5be626b1c0861b40c8d" title="scm_shell is the main calling program for the Single Column Model. " alt="" coords="537,56,624,83"/>
+<area shape="rect" id="node8" href="$namespacercf__read__namelists__mod.xhtml#a03f55943f24c46a584c68e062c7c51b8" title="Subroutine Rcf_Read_Namelists &#45; read the rcf namelists. " alt="" coords="485,107,676,149"/>
+<area shape="rect" id="node9" href="$namespacercf__initialise__mod.xhtml#ab7086bd455bd5857b757207d0255c3f4" title="Subroutine Rcf_Initialise &#45; initialisation tasks. " alt="" coords="724,82,863,123"/>
+<area shape="rect" id="node10" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="911,119,1005,145"/>
+</map>

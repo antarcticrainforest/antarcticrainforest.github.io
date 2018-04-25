@@ -1,0 +1,9 @@
+<map id="FILE_OP" name="FILE_OP">
+<area shape="rect" id="node2" href="$portutils_8c.xhtml#a0358408f8a3a73a1ab2d1f34b6ce8738" title="um_str_split" alt="" coords="131,5,233,32"/>
+<area shape="rect" id="node3" href="$portutils_8c.xhtml#a279de8533a8a8f8e4daa7b92005ecd17" title="file_op_cp" alt="" coords="139,56,225,83"/>
+<area shape="rect" id="node4" href="$portutils_8c.xhtml#a95525925201464ee9ce793824970e1ba" title="file_op_rm" alt="" coords="137,107,227,133"/>
+<area shape="rect" id="node5" href="$portutils_8c.xhtml#adf71aa6cd822df12a952fd86e71a1a55" title="file_op_mkdir" alt="" coords="127,157,237,184"/>
+<area shape="rect" id="node6" href="$portutils_8c.xhtml#aed504b65d045c1a7509bb718b36e1e97" title="file_op_touch" alt="" coords="128,208,236,235"/>
+<area shape="rect" id="node7" href="$portutils_8c.xhtml#ae7b85218ce10752263d9ffe9ea42b01c" title="SHELL" alt="" coords="151,259,213,285"/>
+<area shape="rect" id="node8" href="$portutils_8c.xhtml#ae175172f0f523db0e6e7e8b992e6b0e6" title="SET_DUMPFILE_LENGTH" alt="" coords="285,259,464,285"/>
+</map>

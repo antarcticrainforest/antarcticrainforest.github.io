@@ -1,0 +1,44 @@
+article .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 314px;
+    margin: auto;
+    text-align: center;
+}
+
+article .container {
+    padding: 0 0px;
+}
+
+article p.contact{
+ font-size: 14px;
+}
+
+
+article h1.contact{
+ font-size: 22px;
+}
+article .title {
+    color: grey;
+    font-size: 18px;
+}
+
+article button.contact {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}*/
+
+article a.contact {
+    font-size: 22px;
+}
+
+article button.contact:hover, a.contact:hover {
+    opacity: 0.7;
+}

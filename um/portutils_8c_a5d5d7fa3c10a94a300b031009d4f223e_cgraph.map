@@ -1,0 +1,7 @@
+<map id="UM_ADDR_SIZE" name="UM_ADDR_SIZE">
+<area shape="rect" id="node2" href="$portutils_8c.xhtml#a3898dfb201848e7e44db57bf63986be7" title="UM_SLEEP" alt="" coords="177,5,267,32"/>
+<area shape="rect" id="node3" href="$portutils_8c.xhtml#a9c183a8113a5a73783566ab18d6722df" title="UM_MEMCPY" alt="" coords="315,5,420,32"/>
+<area shape="rect" id="node4" href="$portutils_8c.xhtml#a94d62e343058a5c94fef5264c717eedd" title="UM_MEMCPY_F" alt="" coords="468,5,587,32"/>
+<area shape="rect" id="node5" href="$portutils_8c.xhtml#ac5a9bc068a38fc043ee954c2af128a79" title="UM_MEMCPY64" alt="" coords="635,5,756,32"/>
+<area shape="rect" id="node6" href="$portutils_8c.xhtml#a4fdb176b80aa57a3aa4e5f345e14ff06" title="UM_MEMCPY32" alt="" coords="804,5,925,32"/>
+</map>

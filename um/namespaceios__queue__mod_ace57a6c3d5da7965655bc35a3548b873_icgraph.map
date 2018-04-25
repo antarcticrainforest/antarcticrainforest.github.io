@@ -1,0 +1,13 @@
+<map id="ios_queue_mod::release_lock" name="ios_queue_mod::release_lock">
+<area shape="rect" id="node2" href="$namespaceios__queue__mod.xhtml#a6b52a480f92fb8631f7dc50217a63f21" title="SUBROUTINE to put node into Queue (node allocated outside) " alt="" coords="539,101,694,143"/>
+<area shape="rect" id="node7" href="$namespaceios__queue__mod.xhtml#a926922af794de9864289553aa4031092" title="ios_queue_mod::ios\l_remove_data_from_queue" alt="" coords="775,291,975,332"/>
+<area shape="rect" id="node9" href="$namespaceios__queue__mod.xhtml#a3aefb9dc58f934723fbdf37b3aef121b" title="ios_queue_mod::ios\l_getqueuepayload" alt="" coords="541,13,692,55"/>
+<area shape="rect" id="node10" href="$namespaceios__queue__mod.xhtml#a4ee7678995b5d34a0adda39290be24ce" title="ios_queue_mod::ios\l_increment_queue_length" alt="" coords="268,211,459,252"/>
+<area shape="rect" id="node12" href="$namespaceios__queue__mod.xhtml#adb779c0fb6a81d65ae55d66ceb9d4ad1" title="ios_queue_mod::ios\l_queue_report" alt="" coords="288,421,439,463"/>
+<area shape="rect" id="node3" href="$namespaceio__server__listener.xhtml#a1018f7e8b758ddbedf8c1127ddb0ceea" title="io_server_listener\l::ios_process_normal" alt="" coords="1023,84,1181,125"/>
+<area shape="rect" id="node6" href="$namespaceios__queue__mod.xhtml#ad1070977bec241cf7bc78f70dbc41f45" title="ios_queue_mod::ios\l_put_metadata_in_queue" alt="" coords="781,51,968,92"/>
+<area shape="rect" id="node4" href="$namespaceio__server__listener.xhtml#a9a50c3ffaabce194980387dc9dcf691f" title="io_server_listener\l::ios_slavelistener" alt="" coords="1229,84,1369,125"/>
+<area shape="rect" id="node5" href="$namespaceio__server__listener.xhtml#a9225cffcf2da72ce400c9af1bbd3d788" title="io_server_listener\l::ios_listener" alt="" coords="1230,5,1369,47"/>
+<area shape="rect" id="node8" href="$namespaceio__server__writer.xhtml#acf5c5530ae80f9fcd7bb3206d80395d9" title="io_server_writer::ios\l_writer" alt="" coords="1025,251,1179,292"/>
+<area shape="rect" id="node11" href="$namespaceios__queue__mod.xhtml#a6b8b6731f4aa3198d8964e443ac0390c" title="ios_queue_mod::destroy_node" alt="" coords="507,269,727,295"/>
+</map>
