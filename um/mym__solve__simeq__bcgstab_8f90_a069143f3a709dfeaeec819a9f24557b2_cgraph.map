@@ -1,6 +1,0 @@
-<map id="mym_solve_simeq_bcgstab" name="mym_solve_simeq_bcgstab">
-<area shape="rect" id="node2" href="$mym__simeq__ilud2__decmp_8f90.xhtml#aa2c07acb0a8829955192b24755986033" title="SUBROUTINE mym_simeq_ilud2_decmp&#45; SUBROUTINE mym_simeq_ilud2_decmp&#45; Purpose: To perform the incomplet..." alt="" coords="256,5,449,32"/>
-<area shape="rect" id="node3" href="$mym__solve__simeq__ilud2_8f90.xhtml#a5b75a18194bce765a09f6364b2f16cd4" title="SUBROUTINE mym_solve_simeq_ilud2&#45; SUBROUTINE mym_solve_simeq_ilud2&#45; Purpose: To solve simultaneous eq..." alt="" coords="261,56,445,83"/>
-<area shape="rect" id="node4" href="$mym__simeq__matrix__prod_8f90.xhtml#adfd88d8d55bae35165e3b32b5f93595e" title="SUBROUTINE mym_simeq_matrix_prod&#45; SUBROUTINE mym_simeq_matrix_prod&#45; Purpose: To calculate products of..." alt="" coords="258,107,447,133"/>
-<area shape="rect" id="node5" href="$eps_8f90.xhtml#a607b0ae2f37e1479804bcce0b85f4125" title="eps" alt="" coords="330,157,375,184"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="UM_ADDR_DIFF" name="UM_ADDR_DIFF">
-<area shape="rect" id="node2" href="$portutils_8c.xhtml#a4df173ece58c58b0ff1af7201d242dd0" title="FORT_GET_ENV" alt="" coords="176,5,299,32"/>
-<area shape="rect" id="node3" href="$portutils_8c.xhtml#a5d1448f3a2db588da0bb392babee8932" title="ABORT" alt="" coords="347,5,413,32"/>
-<area shape="rect" id="node4" href="$portutils_8c.xhtml#a0aa785d46f7f7e98cece74907dfa7d45" title="GET_FILE" alt="" coords="461,5,543,32"/>
-<area shape="rect" id="node5" href="$portutils_8c.xhtml#a5ab22a6dd2df79cb1ed4f9fc82b3fbde" title="WORD_LENGTH" alt="" coords="591,5,715,32"/>
-<area shape="rect" id="node6" href="$portutils_8c.xhtml#ab59ff8b247256eaf109edfdebe0906ce" title="DATE_TIME" alt="" coords="763,5,857,32"/>
-</map>

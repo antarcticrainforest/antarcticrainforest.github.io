@@ -1,7 +1,0 @@
-<map id="rcf_address_mod::rcf_pslevcod" name="rcf_address_mod::rcf_pslevcod">
-<area shape="rect" id="node2" href="$namespacercf__address__mod.xhtml#abb1565cd11dfee748eee0c86a405b4bb" title="rcf_address_mod::rcf\l_primary" alt="" coords="212,5,371,47"/>
-<area shape="rect" id="node3" href="$namespacercf__address__mod.xhtml#a570cd49fe16b950c48ee2e6567445bfd" title="reconfiguration &#45; includes calls to primary etc to determine which fields are included. " alt="" coords="419,5,577,47"/>
-<area shape="rect" id="node4" href="$namespacercf__files__init__mod.xhtml#a6912e84cd8951b5ced20af58cf07791a" title="Subroutine Rcf_Files_Init &#45; initialisation of files. " alt="" coords="625,5,763,47"/>
-<area shape="rect" id="node5" href="$namespacercf__initialise__mod.xhtml#ab7086bd455bd5857b757207d0255c3f4" title="Subroutine Rcf_Initialise &#45; initialisation tasks. " alt="" coords="811,5,949,47"/>
-<area shape="rect" id="node6" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="997,13,1092,39"/>
-</map>

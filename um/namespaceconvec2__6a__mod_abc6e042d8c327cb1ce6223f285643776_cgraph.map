@@ -1,7 +1,0 @@
-<map id="convec2_6a_mod::convec2_6a" name="convec2_6a_mod::convec2_6a">
-<area shape="rect" id="node2" href="$namespaceparcel__6a__mod.xhtml#a8bc2fc4101d0d0d7086b5028e4afe9a6" title="Completes lifting of the parcel from layer k to k+1 Calls detrain, term_con and cloud_w Detrain &#45; car..." alt="" coords="273,42,465,69"/>
-<area shape="rect" id="node6" href="$namespacecalc__w__eqn__mod.xhtml#a1fb8243a802798cb75d3c8fbc4f9b7bd" title="calc_w_eqn_mod::calc\l_w_eqn" alt="" coords="286,93,453,135"/>
-<area shape="rect" id="node3" href="$namespacedetrain__6a__mod.xhtml#a3a480eb9f18ffc9c7a08ea63e5dd24a0" title="Forced detrainment calculation. " alt="" coords="513,13,717,39"/>
-<area shape="rect" id="node5" href="$namespaceterm__con__6a__mod.xhtml#aa8acd90c24d3516b8f53635f4f3b180c" title="Returns a mask for points at which convection is terminating!&gt; " alt="" coords="525,64,706,105"/>
-<area shape="rect" id="node4" href="$namespacedet__rate__6a__mod.xhtml#aee37cc7fce5d601c443e2466fc64c6bb" title="Calculates forced detrainment rate in layer K. " alt="" coords="765,5,929,47"/>
-</map>

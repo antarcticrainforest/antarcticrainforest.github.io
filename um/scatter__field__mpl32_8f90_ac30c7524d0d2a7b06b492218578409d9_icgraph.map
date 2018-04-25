@@ -1,5 +1,0 @@
-<map id="scatter_field_mpl32" name="scatter_field_mpl32">
-<area shape="rect" id="node2" href="$um__read__multi_8f90.xhtml#a9feb8d67a971df4da0762e811c1c8163" title="Parallel UM interface to BUFFIN &#45; for use by the UM only. " alt="" coords="204,5,324,32"/>
-<area shape="rect" id="node3" href="$um__readdump_8f90.xhtml#a1cd34d50f40d6c5161e8efaf6a716404" title="SUBROUTINE UM_READDUMP. " alt="" coords="372,5,488,32"/>
-<area shape="rect" id="node4" href="$initdump_8f90.xhtml#a47bdadaf5815d019b41dd85404127d12" title="LL Subroutine INITDUMP !&gt;LL. " alt="" coords="536,5,616,32"/>
-</map>

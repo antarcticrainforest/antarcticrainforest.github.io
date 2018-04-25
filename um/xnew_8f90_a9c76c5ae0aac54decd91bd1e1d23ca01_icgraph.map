@@ -1,7 +1,0 @@
-<map id="xnew" name="xnew">
-<area shape="rect" id="node2" href="$initstat_8f90.xhtml#a5dc0864f6924836eb475d0eb584cefe7" title="Subroutine initstat. " alt="" coords="111,5,179,32"/>
-<area shape="rect" id="node6" href="$statday_8f90.xhtml#a486a00696aad387852fede95e80b8e93" title="SUBROUTINE StatDay. " alt="" coords="227,56,297,83"/>
-<area shape="rect" id="node3" href="$run__init_8f90.xhtml#aa8d2637e188e64d85fda47414567d25f" title="SUBROUTINE Run_Init. " alt="" coords="227,5,297,32"/>
-<area shape="rect" id="node4" href="$scm__main_8f90.xhtml#a2c730136605550612e094ce51d33a2a5" title="*********************************COPYRIGHT********************************* " alt="" coords="345,31,435,57"/>
-<area shape="rect" id="node5" href="$scm__shell_8f90.xhtml#ab15255829ee7b5be626b1c0861b40c8d" title="scm_shell is the main calling program for the Single Column Model. " alt="" coords="483,31,569,57"/>
-</map>

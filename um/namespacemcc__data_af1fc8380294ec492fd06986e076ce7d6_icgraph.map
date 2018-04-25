@@ -1,6 +1,0 @@
-<map id="mcc_data::dealloc_mcc" name="mcc_data::dealloc_mcc">
-<area shape="rect" id="node2" href="$scm__main_8f90.xhtml#a2c730136605550612e094ce51d33a2a5" title="*********************************COPYRIGHT********************************* " alt="" coords="688,5,777,32"/>
-<area shape="rect" id="node4" href="$namespacetwpice__netcdf.xhtml#ae626dff2c8e7da4bcb869c4d6af8ebdd" title="twpice_netcdf::twpice\l_nc_grid_to_scm" alt="" coords="228,27,392,69"/>
-<area shape="rect" id="node3" href="$scm__shell_8f90.xhtml#ab15255829ee7b5be626b1c0861b40c8d" title="scm_shell is the main calling program for the Single Column Model. " alt="" coords="825,5,912,32"/>
-<area shape="rect" id="node5" href="$namespacenetcdf__obs.xhtml#aa213273e45276557462da71fa38b5523" title="============================================================================== " alt="" coords="440,31,640,57"/>
-</map>

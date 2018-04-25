@@ -1,6 +1,0 @@
-<map id="ukmo_grib_mod::ukmo_decode" name="ukmo_grib_mod::ukmo_decode">
-<area shape="rect" id="node2" href="$namespacercf__grib__read__data__mod.xhtml#a9893cbd41e57a6564ab104db492c83c7" title="SUBROUTINE Rcf_Grib_Read_Data : Read raw info from file. " alt="" coords="225,5,412,47"/>
-<area shape="rect" id="node3" href="$namespacercf__grib__control__mod.xhtml#ac6174bbd64f507e15341873465221613" title="SUBROUTINE Rcf_Grib_Control. " alt="" coords="460,5,619,47"/>
-<area shape="rect" id="node4" href="$namespacercf__initialise__mod.xhtml#ab7086bd455bd5857b757207d0255c3f4" title="Subroutine Rcf_Initialise &#45; initialisation tasks. " alt="" coords="667,5,805,47"/>
-<area shape="rect" id="node5" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="853,13,948,39"/>
-</map>

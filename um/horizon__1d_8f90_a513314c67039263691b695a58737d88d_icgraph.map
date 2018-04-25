@@ -1,7 +1,0 @@
-<map id="horizon_1d" name="horizon_1d">
-<area shape="rect" id="node2" href="$skyview_8f90.xhtml#ab854010408ab941e54eb76d649bfeb7f" title="Calculation of sky&#45;view factor. " alt="" coords="147,31,223,57"/>
-<area shape="rect" id="node3" href="$setcona_8f90.xhtml#a353c87ffe0be2800c2f0bf5d6c40d099" title="LL Subroutine SETCONA!&gt;LL. " alt="" coords="282,5,355,32"/>
-<area shape="rect" id="node5" href="$setcona__4_a_8f90.xhtml#ab6beee322d7ff9bca411f17380e33743" title="Subroutine SETCONA (ENDGAME VERSION)!&gt; Purpose : to calculate additional constants derived from..." alt="" coords="271,56,367,83"/>
-<area shape="rect" id="node4" href="$setcona__ctl_8f90.xhtml#a0a2ef213293e6f9a8f60060fc26ed5df" title="Subroutine SETCONA_CTL. " alt="" coords="426,5,522,32"/>
-<area shape="rect" id="node6" href="$setcona__ctl__4_a_8f90.xhtml#aae00cb9b838e6f0f912412753746f414" title="Subroutine SETCONA_CTL (ENDGAME version) " alt="" coords="415,56,533,83"/>
-</map>

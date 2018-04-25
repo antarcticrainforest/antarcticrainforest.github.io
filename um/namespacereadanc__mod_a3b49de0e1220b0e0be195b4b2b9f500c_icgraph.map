@@ -1,7 +1,0 @@
-<map id="readanc_mod::readanc_files" name="readanc_mod::readanc_files">
-<area shape="rect" id="node2" href="$namespacegetanc__files__mod.xhtml#af44125bfef3728f614f9a55dd81554e4" title="Subroutine GetAnc_Files &#45; Get Ancillary file records. " alt="" coords="224,5,412,47"/>
-<area shape="rect" id="node3" href="$namespacercf__ancil__atmos__mod.xhtml#a4af82ab1081f4074c046dcc4cb69aa4c" title="Subroutine Rcf_Ancil_Atmos &#45; Ancillary processing for Atmosphere. " alt="" coords="460,5,621,47"/>
-<area shape="rect" id="node4" href="$namespacercf__ancil__mod.xhtml#af0d79a90918b3178fb9102d0237d48b6" title="Subroutine Rcf_Ancil &#45; Reconfiguration Ancillary Processing. " alt="" coords="669,5,808,47"/>
-<area shape="rect" id="node5" href="$namespacercf__control__mod.xhtml#a3ac6d1c6311ded848ddd750726da301a" title="Subroutine Rcf_Control &#45; main control routine. " alt="" coords="856,5,1008,47"/>
-<area shape="rect" id="node6" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="1056,13,1151,39"/>
-</map>

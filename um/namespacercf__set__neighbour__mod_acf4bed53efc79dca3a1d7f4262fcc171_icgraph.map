@@ -1,5 +1,0 @@
-<map id="rcf_set_neighbour_mod::rcf_set_neighbour" name="rcf_set_neighbour_mod::rcf_set_neighbour">
-<area shape="rect" id="node2" href="$namespacercf__decompose__mod.xhtml#ab0957b6e5e0a83385ddfa9bd82387d12" title="Subroutine Rcf_Decompose &#45; performs grid decomposition. " alt="" coords="228,5,393,47"/>
-<area shape="rect" id="node3" href="$namespacercf__initialise__mod.xhtml#ab7086bd455bd5857b757207d0255c3f4" title="Subroutine Rcf_Initialise &#45; initialisation tasks. " alt="" coords="441,5,580,47"/>
-<area shape="rect" id="node4" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="628,13,723,39"/>
-</map>

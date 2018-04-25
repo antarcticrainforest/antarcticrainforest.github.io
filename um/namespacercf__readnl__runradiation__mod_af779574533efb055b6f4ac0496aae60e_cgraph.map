@@ -1,8 +1,0 @@
-<map id="rcf_readnl_runradiation_mod::rcf_readnl_runradiation" name="rcf_readnl_runradiation_mod::rcf_readnl_runradiation">
-<area shape="rect" id="node2" href="$namespacerad__input__mod.xhtml#a0656f64b3f3e092c09994f623f4e0dfb" title="rad_input_mod::check\l_run_radiation" alt="" coords="271,5,436,47"/>
-<area shape="rect" id="node3" href="$namespacerad__input__mod.xhtml#aa8bc2289fb5780530de984bbcfc86b83" title="rad_input_mod::print\l_nlist_run_radiation" alt="" coords="275,71,432,112"/>
-<area shape="rect" id="node4" href="$namespaceumprintmgr.xhtml#aae44897e556705dbf5e945a26538be9a" title="umprintmgr::umprint" alt="" coords="484,78,643,105"/>
-<area shape="rect" id="node5" href="$namespaceumprintmgr.xhtml#a088ce22a18d574e9df7ee1850bfb10c7" title="umprintmgr::umprintopenstream" alt="" coords="691,78,927,105"/>
-<area shape="rect" id="node6" href="$namespaceumprintmgr.xhtml#ad3a290b30a6e25500eabc0bf90330b77" title="umprintmgr::umprintflush" alt="" coords="714,129,903,155"/>
-<area shape="rect" id="node7" href="$namespaceumflush__mod.xhtml#a3a003ab59990bdcb712b443dd5e0d1cd" title="umflush_mod::umflush" alt="" coords="975,129,1145,155"/>
-</map>

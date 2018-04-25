@@ -1,8 +1,0 @@
-<map id="flux_rho" name="flux_rho">
-<area shape="rect" id="node2" href="$update__rho_8f90.xhtml#ad979104673d2ef8085e9414ef5753b82" title="subroutine update_rho " alt="" coords="128,5,223,32"/>
-<area shape="rect" id="node3" href="$ni__update__rho_8f90.xhtml#a24ac4652e7616c25729de4ed32c43035" title="ni_update_rho" alt="" coords="271,5,385,32"/>
-<area shape="rect" id="node4" href="$atm__step_8f90.xhtml#ac0ee2467a1a9959b7065fdb8fd27bce4" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="433,5,516,32"/>
-<area shape="rect" id="node5" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="564,5,643,32"/>
-<area shape="rect" id="node6" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="691,5,772,32"/>
-<area shape="rect" id="node7" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="820,5,903,32"/>
-</map>

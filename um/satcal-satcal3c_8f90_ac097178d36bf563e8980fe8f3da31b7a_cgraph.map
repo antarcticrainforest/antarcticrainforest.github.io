@@ -1,4 +1,0 @@
-<map id="satcal_4a" name="satcal_4a">
-<area shape="rect" id="node2" href="$qsat_8f90.xhtml#aea6c2f88cb65e881fc815b7be5559cc9" title="Saturation Specific Humidity Scheme (Qsat): Vapour to Liquid/Ice. " alt="" coords="160,5,211,32"/>
-<area shape="rect" id="node3" href="$dqs__dth-dqsdth3c_8f90.xhtml#a44d04aafc0eeaeb5217c182be9bf4836" title="Calculates gradient of saturation mixing ratio. " alt="" coords="137,56,233,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="calc_non_int_sl_theta" name="calc_non_int_sl_theta">
-<area shape="rect" id="node2" href="$sl__thermo_8f90.xhtml#adf4851495d7846c5a9b0e1c12a57ce8f" title="Subroutine SL_Thermo. " alt="" coords="216,5,303,32"/>
-<area shape="rect" id="node3" href="$ni__sl__thermo_8f90.xhtml#a17ce9696a494a15c73ba0ce0df90e052" title="Subroutine NI_SL_Thermo. " alt="" coords="351,5,457,32"/>
-<area shape="rect" id="node4" href="$atm__step_8f90.xhtml#ac0ee2467a1a9959b7065fdb8fd27bce4" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="505,5,588,32"/>
-<area shape="rect" id="node5" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="636,5,715,32"/>
-<area shape="rect" id="node6" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="763,5,844,32"/>
-<area shape="rect" id="node7" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="892,5,975,32"/>
-</map>

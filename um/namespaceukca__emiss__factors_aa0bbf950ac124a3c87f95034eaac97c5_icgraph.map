@@ -1,4 +1,0 @@
-<map id="ukca_emiss_factors::regrid_vertic_profs" name="ukca_emiss_factors::regrid_vertic_profs">
-<area shape="rect" id="node2" href="$namespaceukca__emiss__factors.xhtml#ae481d1e7ed1570d9e9b6ffafd3e1ac23" title="Determine the factors needed to inject emissions in each model level. This may be used to add emissio..." alt="" coords="205,5,383,47"/>
-<area shape="rect" id="node3" href="$namespaceukca__new__emiss__ctl__mod.xhtml#a09e21dd1c2f6ef3fe34d3403e1779ced" title="ukca_new_emiss_ctl\l_mod::ukca_new_emiss_ctl" alt="" coords="431,5,631,47"/>
-</map>

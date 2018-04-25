@@ -1,6 +1,0 @@
-<map id="s_scmop_mod::anystreamon" name="s_scmop_mod::anystreamon">
-<area shape="rect" id="node2" href="$write__scumlist_8f90.xhtml#a7e45949c38688006935a311e934997b2" title="Write out info about the output diagnostics for one or all streams. " alt="" coords="263,5,380,32"/>
-<area shape="rect" id="node3" href="$dump__streams__init_8f90.xhtml#a5a32286978873e7742031907578fdecb" title="Initialise SCM diagnostic output files. " alt="" coords="428,5,575,32"/>
-<area shape="rect" id="node4" href="$scm__main_8f90.xhtml#a2c730136605550612e094ce51d33a2a5" title="*********************************COPYRIGHT********************************* " alt="" coords="623,5,712,32"/>
-<area shape="rect" id="node5" href="$scm__shell_8f90.xhtml#ab15255829ee7b5be626b1c0861b40c8d" title="scm_shell is the main calling program for the Single Column Model. " alt="" coords="760,5,847,32"/>
-</map>

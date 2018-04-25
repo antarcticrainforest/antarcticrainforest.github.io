@@ -1,8 +1,0 @@
-<map id="setup_umhdr" name="setup_umhdr">
-<area shape="rect" id="node2" href="$degribify_8f90.xhtml#a8d0fde8168348217fd7fa676e3855bb6" title="init_umhdr" alt="" coords="164,5,256,32"/>
-<area shape="rect" id="node5" href="$new__umhdr_8f90.xhtml#ab6f6c7eaebc494292cad2d5f087caf28" title="Routine to set up a new UM header in Fieldcalc. " alt="" coords="308,107,407,133"/>
-<area shape="rect" id="node7" href="$read__umhdr_8f90.xhtml#a5ce45464a0f56cf4cce1bfce02806f24" title="Routine to read a UM Fieldsfile header. " alt="" coords="160,56,260,83"/>
-<area shape="rect" id="node3" href="$degribify_8f90.xhtml#af83e6bde65cc2f47da36cddae7e9a38f" title="Routines for converting fields from fieldsfile to GRIB. " alt="" coords="317,5,397,32"/>
-<area shape="rect" id="node4" href="$fieldcalc_8f90.xhtml#ac71d10790a6550f257c927ee60db58b2" title="Program for post&#45;processing of UM output. " alt="" coords="455,56,531,83"/>
-<area shape="rect" id="node6" href="$cutout_8f90.xhtml#a1c4b774bfd8e00cb84da103999655685" title="Given header grid information returns parameters of fixed portion of grid. " alt="" coords="461,107,524,133"/>
-</map>

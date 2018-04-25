@@ -1,9 +1,0 @@
-<map id="ukca_set_nmspec_mod::ukca_set_nmspec" name="ukca_set_nmspec_mod::ukca_set_nmspec">
-<area shape="rect" id="node2" href="$setmodl_8f90.xhtml#aa6ff5915edabfe0021a422ca73d23f92" title="Defines submodel and section/version configuration. " alt="" coords="228,35,303,61"/>
-<area shape="rect" id="node3" href="$stash__proc_8f90.xhtml#a6a7c940d36c620507329f9dccecc0c0d" title="Control routine for processing of basis library STASH file. " alt="" coords="373,5,465,32"/>
-<area shape="rect" id="node6" href="$namespacercf__files__init__mod.xhtml#a6912e84cd8951b5ced20af58cf07791a" title="Subroutine Rcf_Files_Init &#45; initialisation of files. " alt="" coords="351,57,488,98"/>
-<area shape="rect" id="node4" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="565,5,646,32"/>
-<area shape="rect" id="node5" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="729,5,811,32"/>
-<area shape="rect" id="node7" href="$namespacercf__initialise__mod.xhtml#ab7086bd455bd5857b757207d0255c3f4" title="Subroutine Rcf_Initialise &#45; initialisation tasks. " alt="" coords="536,57,675,98"/>
-<area shape="rect" id="node8" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="723,64,817,91"/>
-</map>

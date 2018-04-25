@@ -1,6 +1,0 @@
-<map id="read_lsms" name="read_lsms">
-<area shape="rect" id="node2" href="$flux__process_8f90.xhtml#aa4dfcc67002fe61814d5d93db54c4d94" title="Programming standard: Unified Model Documentation Paper No 3. " alt="" coords="166,5,269,32"/>
-<area shape="rect" id="node4" href="$flux__transform__grid_8f90.xhtml#a47016ff48dce53ea7aae177201e3ee57" title="contains routines: Flux_Transform_Grid " alt="" coords="143,56,292,83"/>
-<area shape="rect" id="node3" href="$flux__process__main_8f90.xhtml#aa4f9adbe127f17a972e1284856a37f9c" title="Programming standard: Unified Model Documentation Paper No 3. " alt="" coords="347,5,490,32"/>
-<area shape="rect" id="node5" href="$flux__transform__main_8f90.xhtml#a9514a018945b31f3f7749d95c2e47c5e" title="contains progam: Flux_Transform_Main " alt="" coords="340,56,497,83"/>
-</map>

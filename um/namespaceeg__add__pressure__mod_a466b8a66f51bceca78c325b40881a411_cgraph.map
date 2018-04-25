@@ -1,8 +1,0 @@
-<map id="eg_add_pressure_mod::eg_add_pressure" name="eg_add_pressure_mod::eg_add_pressure">
-<area shape="rect" id="node2" href="$namespaceeg__v__at__poles__mod.xhtml#a2b4413ba994c589340c64169af4db7da" title="eg_v_at_poles_mod::\leg_v_at_poles" alt="" coords="222,5,381,47"/>
-<area shape="rect" id="node4" href="$namespaceeg__calc__p__star__mod.xhtml#ac38cb0da32f1ab79e76226ddd8a307b6" title="eg_calc_p_star_mod\l::eg_calc_p_star" alt="" coords="224,71,379,112"/>
-<area shape="rect" id="node7" href="$namespaceeg__coriolis__star__mod.xhtml#a56b5da57eab64dbf3fa86c32ac5dd2ed" title="eg_coriolis_star_mod\l::eg_coriolis_star" alt="" coords="221,136,381,177"/>
-<area shape="rect" id="node3" href="$namespaceglobal__2d__sums__mod.xhtml#ac3fe3c2679168085c4635a17e5f82215" title="global_2d_sums_mod\l::global_2d_sums" alt="" coords="429,5,592,47"/>
-<area shape="rect" id="node5" href="$swap__bounds-swpbnd2a_8f90.xhtml#aa0269e41062e156c437596022ea9ccd0" title="Portable GCOM based version SWAP_BOUNDS. " alt="" coords="455,78,566,105"/>
-<area shape="rect" id="node6" href="$fill__external__halos_8f90.xhtml#a9f4e1e061e136821fb9a51281a5e69c2" title="Routine for filling in External Halos. " alt="" coords="640,78,781,105"/>
-</map>

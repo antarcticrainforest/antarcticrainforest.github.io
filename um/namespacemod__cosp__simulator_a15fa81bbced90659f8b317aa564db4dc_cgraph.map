@@ -1,6 +1,0 @@
-<map id="mod_cosp_simulator::cosp_simulator" name="mod_cosp_simulator::cosp_simulator">
-<area shape="rect" id="node2" href="$namespacemod__cosp__lidar.xhtml#a55a68ee4b562bb084b605def96eebee0" title="%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% " alt="" coords="212,5,375,47"/>
-<area shape="rect" id="node3" href="$namespacemod__cosp__stats.xhtml#aac77e7b04a244f6b74d2fd9e646ef519" title="%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% " alt="" coords="211,71,376,112"/>
-<area shape="rect" id="node4" href="$namespacemod__cosp__stats.xhtml#a8d081c60ecc1fee981e78b8528b9a8f7" title="mod_cosp_stats::cosp\l_change_vertical_grid" alt="" coords="424,37,589,79"/>
-<area shape="rect" id="node5" href="$namespacemod__cosp__stats.xhtml#abd6599a29f39aa27f8159dac685f8abc" title="mod_cosp_stats::cosp\l_gridbox_mean" alt="" coords="424,103,589,144"/>
-</map>

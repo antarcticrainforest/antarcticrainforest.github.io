@@ -1,9 +1,0 @@
-<map id="getanc_fields_mod::getanc_fields" name="getanc_fields_mod::getanc_fields">
-<area shape="rect" id="node2" href="$namespacercf__fortranio__mod.xhtml#ae5e8f33a0b6098e34400d263dd0a2005" title="rcf_fortranio_mod::\lrcf_free_unit" alt="" coords="223,5,370,47"/>
-<area shape="rect" id="node3" href="$namespaceumprintmgr.xhtml#aae44897e556705dbf5e945a26538be9a" title="umprintmgr::umprint" alt="" coords="436,101,595,127"/>
-<area shape="rect" id="node7" href="$namespacereadanc__mod.xhtml#a200c5e24cddc25c9e2907daf7cc7c515" title="Subroutine ReadAnc_Fields &#45; reads ancil&#45;master FIELD record Subroutine ReadAnc_Files &#45; reads ancil&#45;ma..." alt="" coords="211,123,382,164"/>
-<area shape="rect" id="node8" href="$namespacebcastanc__mod.xhtml#a144a72f2fcf1e94f1b6e851b69cabfac" title="This is used to broadcast a ANCILmaster record. " alt="" coords="205,188,388,229"/>
-<area shape="rect" id="node4" href="$namespaceumprintmgr.xhtml#a088ce22a18d574e9df7ee1850bfb10c7" title="umprintmgr::umprintopenstream" alt="" coords="643,101,879,127"/>
-<area shape="rect" id="node5" href="$namespaceumprintmgr.xhtml#ad3a290b30a6e25500eabc0bf90330b77" title="umprintmgr::umprintflush" alt="" coords="666,151,855,178"/>
-<area shape="rect" id="node6" href="$namespaceumflush__mod.xhtml#a3a003ab59990bdcb712b443dd5e0d1cd" title="umflush_mod::umflush" alt="" coords="927,151,1097,178"/>
-</map>

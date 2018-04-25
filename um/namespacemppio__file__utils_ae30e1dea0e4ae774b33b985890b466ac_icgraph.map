@@ -1,7 +1,0 @@
-<map id="mppio_file_utils::file_copy" name="mppio_file_utils::file_copy">
-<area shape="rect" id="node2" href="$temphist_8f90.xhtml#a4bcbe6438654eaf785414c7294a25c75" title="Routine : TEMPHIST !&gt; " alt="" coords="244,31,324,57"/>
-<area shape="rect" id="node3" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="383,5,462,32"/>
-<area shape="rect" id="node6" href="$u__model__4_a_8f90.xhtml#afa05064dab5eba198b461d0928767c7e" title="LL Subroutine: U_MODEL_4A (ENDGAME VERSION) !&gt;LL. " alt="" coords="372,56,473,83"/>
-<area shape="rect" id="node4" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="521,31,603,57"/>
-<area shape="rect" id="node5" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="651,31,733,57"/>
-</map>

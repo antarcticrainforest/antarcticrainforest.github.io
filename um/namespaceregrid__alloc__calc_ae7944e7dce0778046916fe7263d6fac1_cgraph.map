@@ -1,9 +1,0 @@
-<map id="regrid_alloc_calc::calc_alloc_concerns" name="regrid_alloc_calc::calc_alloc_concerns">
-<area shape="rect" id="node2" href="$namespaceumprintmgr.xhtml#aae44897e556705dbf5e945a26538be9a" title="umprintmgr::umprint" alt="" coords="409,40,568,67"/>
-<area shape="rect" id="node6" href="$namespaceregrid__alloc__calc.xhtml#afc840167b45d161a0e4e0831a3fb4b25" title="regrid_alloc_calc::\lswap_concerns" alt="" coords="213,29,352,70"/>
-<area shape="rect" id="node7" href="$namespaceregrid__alloc__calc.xhtml#a8d4a85d08f16f8eb545f931579baf172" title="regrid_alloc_calc::\lcalc_proc_list" alt="" coords="213,94,352,135"/>
-<area shape="rect" id="node8" href="$namespaceregrid__alloc__calc.xhtml#a723d0f4feab9ae9994bdacb958034d5d" title="regrid_alloc_calc::\lswap_concerns_max" alt="" coords="204,159,361,201"/>
-<area shape="rect" id="node3" href="$namespaceumprintmgr.xhtml#a088ce22a18d574e9df7ee1850bfb10c7" title="umprintmgr::umprintopenstream" alt="" coords="616,40,852,67"/>
-<area shape="rect" id="node4" href="$namespaceumprintmgr.xhtml#ad3a290b30a6e25500eabc0bf90330b77" title="umprintmgr::umprintflush" alt="" coords="639,91,829,117"/>
-<area shape="rect" id="node5" href="$namespaceumflush__mod.xhtml#a3a003ab59990bdcb712b443dd5e0d1cd" title="umflush_mod::umflush" alt="" coords="900,91,1071,117"/>
-</map>

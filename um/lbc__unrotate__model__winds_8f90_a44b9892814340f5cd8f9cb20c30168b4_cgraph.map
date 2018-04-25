@@ -1,9 +1,0 @@
-<map id="lbc_unrotate_model_winds" name="lbc_unrotate_model_winds">
-<area shape="rect" id="node2" href="$namespaceeqtoll__mod.xhtml#aa7e9a170440dd6cdf13b810ef4e407dd" title="eqtoll_mod::eqtoll" alt="" coords="222,5,362,32"/>
-<area shape="rect" id="node3" href="$namespacew__coeff__mod.xhtml#a136b5a27ce2a0c71171743cf053a164d" title="w_coeff_mod::w_coeff" alt="" coords="209,56,375,83"/>
-<area shape="rect" id="node4" href="$namespacew__eqtoll__mod.xhtml#af17b5a575ad265d439faf6af1b4c5fd4" title="w_eqtoll_mod::w_eqtoll" alt="" coords="204,107,380,133"/>
-<area shape="rect" id="node5" href="$lbc__u__to__p_8f90.xhtml#a29e5934e0a9edb102fc6a5f05ae9050a" title="Interpolates u&#45;component from the u&#45;grid to the p&#45;grid. " alt="" coords="247,157,337,184"/>
-<area shape="rect" id="node6" href="$lbc__v__to__p_8f90.xhtml#a6dbfb83eba0df3c82fe4812344f46609" title="Interpolates the v&#45;component from the v&#45;grid to the p&#45;grid. " alt="" coords="247,208,337,235"/>
-<area shape="rect" id="node7" href="$lbc__p__to__u_8f90.xhtml#a92fda0cec55f543f40e497330c090cbc" title="Interpolates u&#45;component from the p&#45;grid to the u&#45;grid. " alt="" coords="247,259,337,285"/>
-<area shape="rect" id="node8" href="$lbc__p__to__v_8f90.xhtml#ace7163355b90da504f4b0ebbe9bda884" title="Interpolates v&#45;component from the p&#45;grid to the v&#45;grid. " alt="" coords="247,309,337,336"/>
-</map>

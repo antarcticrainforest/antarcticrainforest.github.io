@@ -1,6 +1,0 @@
-<map id="land_surf_mod::print_nlist_run_blveg" name="land_surf_mod::print_nlist_run_blveg">
-<area shape="rect" id="node2" href="$readlsta_8f90.xhtml#a6be7c745662b87214220c8519949fefe" title="Read run&#45;time control information from namelists for atmos model. " alt="" coords="221,5,296,32"/>
-<area shape="rect" id="node5" href="$readlsta__4_a_8f90.xhtml#abc5fe175d74e13235464439055294edc" title="Read run&#45;time control information from namelists for atmos model. " alt="" coords="209,56,308,83"/>
-<area shape="rect" id="node3" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="356,31,437,57"/>
-<area shape="rect" id="node4" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="485,31,568,57"/>
-</map>

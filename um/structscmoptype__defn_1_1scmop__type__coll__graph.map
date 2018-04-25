@@ -1,4 +1,0 @@
-<map id="scmoptype_defn::scmop_type" name="scmoptype_defn::scmop_type">
-<area shape="rect" id="node2" href="$structscmoptype__defn_1_1astream.xhtml" title="A stream has its own type to clearly separate its entries in SCMop from those corresponding to indivi..." alt="" coords="5,13,197,39"/>
-<area shape="rect" id="node3" href="$structscmoptype__defn_1_1allocatable__array.xhtml" title="A diagnostic&#39;s dump array has its own type so that we can declare an array of arrays and allocate mem..." alt="" coords="221,5,432,47"/>
-</map>

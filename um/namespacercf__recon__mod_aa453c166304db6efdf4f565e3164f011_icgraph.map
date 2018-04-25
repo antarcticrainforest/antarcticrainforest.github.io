@@ -1,6 +1,0 @@
-<map id="rcf_recon_mod::print_nlist_recon" name="rcf_recon_mod::print_nlist_recon">
-<area shape="rect" id="node2" href="$namespacercf__readnl__recon__mod.xhtml#af2c09eff480b8066565cac7608cece33" title="Subroutine Rcf_Readnl_Recon &#45; read the RECON namelist. " alt="" coords="209,35,376,76"/>
-<area shape="rect" id="node3" href="$namespacercf__read__namelists__mod.xhtml#a03f55943f24c46a584c68e062c7c51b8" title="Subroutine Rcf_Read_Namelists &#45; read the rcf namelists. " alt="" coords="424,35,615,76"/>
-<area shape="rect" id="node4" href="$namespacercf__initialise__mod.xhtml#ab7086bd455bd5857b757207d0255c3f4" title="Subroutine Rcf_Initialise &#45; initialisation tasks. " alt="" coords="663,5,801,47"/>
-<area shape="rect" id="node5" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="849,42,944,69"/>
-</map>

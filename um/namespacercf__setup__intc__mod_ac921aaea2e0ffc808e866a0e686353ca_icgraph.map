@@ -1,5 +1,0 @@
-<map id="rcf_setup_intc_mod::rcf_setup_intc" name="rcf_setup_intc_mod::rcf_setup_intc">
-<area shape="rect" id="node2" href="$namespacercf__setup__header__mod.xhtml#af5f48a19184bba024496d1fa6b62fd80" title="Subroutine Rcf_Setup_Header &#45; sets up the output dump header. " alt="" coords="203,5,373,47"/>
-<area shape="rect" id="node3" href="$namespacercf__control__mod.xhtml#a3ac6d1c6311ded848ddd750726da301a" title="Subroutine Rcf_Control &#45; main control routine. " alt="" coords="421,5,573,47"/>
-<area shape="rect" id="node4" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="621,13,716,39"/>
-</map>

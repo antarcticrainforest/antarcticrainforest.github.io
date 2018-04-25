@@ -1,7 +1,0 @@
-<map id="force_suarez_held" name="force_suarez_held">
-<area shape="rect" id="node2" href="$idl__force_8f90.xhtml#a0614ad4c01f3517399f250647c3d9f49" title="Subroutine IDL_Force. " alt="" coords="193,5,272,32"/>
-<area shape="rect" id="node3" href="$atm__step_8f90.xhtml#ac0ee2467a1a9959b7065fdb8fd27bce4" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="320,5,403,32"/>
-<area shape="rect" id="node4" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="451,5,529,32"/>
-<area shape="rect" id="node5" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="577,5,659,32"/>
-<area shape="rect" id="node6" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="707,5,789,32"/>
-</map>

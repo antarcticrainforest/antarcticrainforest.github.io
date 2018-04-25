@@ -1,5 +1,0 @@
-<map id="calc_vis_prob" name="calc_vis_prob">
-<area shape="rect" id="node2" href="$fog__fr_8f90.xhtml#ab2b1acee98379aa88f9884332c5467be" title="Calculates fraction of grid&#45;box covered with fog. " alt="" coords="164,31,224,57"/>
-<area shape="rect" id="node3" href="$qsat__wat_8f90.xhtml#a0c0fb3b560128ff260172760c051f507" title="Saturation Specific Humidity Scheme (Qsat_Wat): Vapour to Liquid. " alt="" coords="272,5,353,32"/>
-<area shape="rect" id="node4" href="$vistoqt_8f90.xhtml#a71b9cec6b0f6031704266b2e3d0cf033" title="Invert relationship between aerosol, visibility and water content. " alt="" coords="279,56,346,83"/>
-</map>

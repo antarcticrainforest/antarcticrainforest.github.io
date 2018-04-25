@@ -1,5 +1,0 @@
-<map id="diffcosy" name="diffcosy">
-<area shape="rect" id="node2" href="$diverg_8f90.xhtml#ae81cc62d4d2315a3cf7fea8aa2a7ec0d" title="Routine to calculate divergence diagnostic. " alt="" coords="127,5,189,32"/>
-<area shape="rect" id="node4" href="$vortic_8f90.xhtml#a4b1ba3e4e0e1dbc91b9c570c7b5f7c54" title="Routine to calculate vorticity diagnostic. " alt="" coords="129,56,187,83"/>
-<area shape="rect" id="node3" href="$fieldcalc_8f90.xhtml#ac71d10790a6550f257c927ee60db58b2" title="Program for post&#45;processing of UM output. " alt="" coords="237,31,313,57"/>
-</map>

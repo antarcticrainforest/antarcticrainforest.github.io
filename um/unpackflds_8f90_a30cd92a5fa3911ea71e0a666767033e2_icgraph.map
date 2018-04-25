@@ -1,9 +1,0 @@
-<map id="unpackflds" name="unpackflds">
-<area shape="rect" id="node2" href="$readfld_8f90.xhtml#adeada5bf622a22f3c995fe6fd0b7272a" title="Routines to read requested fields from a UM fieldsfile. " alt="" coords="145,81,212,108"/>
-<area shape="rect" id="node3" href="$copyflds_8f90.xhtml#af05e4524743d3a4d462efd3cd4141a31" title="Routines for copying fields from one UM fieldsfile to another. " alt="" coords="375,44,451,71"/>
-<area shape="rect" id="node6" href="$cutout_8f90.xhtml#a1c4b774bfd8e00cb84da103999655685" title="Given header grid information returns parameters of fixed portion of grid. " alt="" coords="262,81,325,108"/>
-<area shape="rect" id="node7" href="$getflds_8f90.xhtml#aa82204be4b90c52bd9a6374449c7ce01" title="Routines to read requested fields from a UM fieldsfile. " alt="" coords="260,132,327,159"/>
-<area shape="rect" id="node4" href="$copyall_8f90.xhtml#afa28ef6866075871f02c6418cbd9b18f" title="Routines for copying fields from one UM fieldsfile to another. " alt="" coords="505,5,574,32"/>
-<area shape="rect" id="node5" href="$fieldcalc_8f90.xhtml#ac71d10790a6550f257c927ee60db58b2" title="Program for post&#45;processing of UM output. " alt="" coords="628,81,704,108"/>
-<area shape="rect" id="node8" href="$getb__flds_8f90.xhtml#a5077863a1108379b7bb47d53a5bc241c" title="Routines to read requested fields from a UM fieldsfile. " alt="" coords="499,157,580,184"/>
-</map>

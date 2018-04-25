@@ -1,7 +1,0 @@
-<map id="vecmag" name="vecmag">
-<area shape="rect" id="node2" href="$fieldcalc_8f90.xhtml#ac71d10790a6550f257c927ee60db58b2" title="Program for post&#45;processing of UM output. " alt="" coords="296,82,372,109"/>
-<area shape="rect" id="node3" href="$maxwind_8f90.xhtml#a4b2a6fd51df910e84e3373dc54ed4756" title="Routine to calculate Max Wind value and height. " alt="" coords="147,32,229,58"/>
-<area shape="rect" id="node4" href="$mtnstress_8f90.xhtml#a211dc657a28b4caa157fd6c6dff3434c" title="Routines to calculate Mountain Wave Predictor diagnostic. " alt="" coords="145,82,231,109"/>
-<area shape="rect" id="node5" href="$mtnstress__pref_8f90.xhtml#a9dc979a75425792e8e96412894cbab8c" title="mtnstress_pref" alt="" coords="128,133,248,160"/>
-<area shape="rect" id="node6" href="$topbase_8f90.xhtml#a626b844f22e59bb9f52cd780de9c8cf6" title="Routine to calculate Max Wind value and height. " alt="" coords="151,184,225,210"/>
-</map>

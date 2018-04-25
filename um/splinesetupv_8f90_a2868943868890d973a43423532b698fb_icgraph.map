@@ -1,6 +1,0 @@
-<map id="splinesetupv" name="splinesetupv">
-<area shape="rect" id="node2" href="$maxwindsplinev_8f90.xhtml#a1457c4517f3bd91c7cf45a5c8f572b1d" title="Routine to calculate Max Wind value and height. " alt="" coords="159,31,288,57"/>
-<area shape="rect" id="node3" href="$maxwind_8f90.xhtml#a4b2a6fd51df910e84e3373dc54ed4756" title="Routine to calculate Max Wind value and height. " alt="" coords="336,5,419,32"/>
-<area shape="rect" id="node5" href="$topbase_8f90.xhtml#a626b844f22e59bb9f52cd780de9c8cf6" title="Routine to calculate Max Wind value and height. " alt="" coords="340,56,415,83"/>
-<area shape="rect" id="node4" href="$fieldcalc_8f90.xhtml#ac71d10790a6550f257c927ee60db58b2" title="Program for post&#45;processing of UM output. " alt="" coords="467,31,543,57"/>
-</map>

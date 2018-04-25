@@ -1,7 +1,0 @@
-<map id="ddf_initialize" name="ddf_initialize">
-<area shape="rect" id="node2" href="$mym__calcphi_8f90.xhtml#a8635c10f09686eac8527cfd9ce6b476b" title="SUBROUTINE mym_calcphi SUBROUTINE mym_calcphi. " alt="" coords="178,5,287,32"/>
-<area shape="rect" id="node3" href="$ddf__mix__length_8f90.xhtml#acb0ddc995778ad0f71f3e130c51d2a25" title="SUBROUTINE ddf_mix_length SUBROUTINE ddf_mix_length. " alt="" coords="171,56,294,83"/>
-<area shape="rect" id="node5" href="$mym__diff__matcoef_8f90.xhtml#a279cd255302dd57de042a474a1957fda" title="SUBROUTINE mym_diffmat_coef SUBROUTINE mym_diffmat_coef Purpose: To calculate tri&#45;diagonal matrix ele..." alt="" coords="160,107,305,133"/>
-<area shape="rect" id="node6" href="$mym__implic_8f90.xhtml#acd7c5c2097976090126e222197c233e1" title="SUBROUTINE mym_implic SUBROUTINE mym_implic Purpose: To solve the tri&#45;diagonal equations for the prog..." alt="" coords="181,157,284,184"/>
-<area shape="rect" id="node4" href="$mym__length_8f90.xhtml#af21cadd264414e5d1b4893abecbecd13" title="SUBROUTINE mym_length SUBROUTINE mym_length Purpose: To calculate mixing length in the MY model..." alt="" coords="353,56,457,83"/>
-</map>

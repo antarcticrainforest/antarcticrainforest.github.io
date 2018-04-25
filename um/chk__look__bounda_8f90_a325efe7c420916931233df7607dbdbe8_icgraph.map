@@ -1,9 +1,0 @@
-<map id="chk_look_bounda" name="chk_look_bounda">
-<area shape="rect" id="node2" href="$inbounda_8f90.xhtml#a03113c1df1b59dfb5e6cd09be4785dba" title="Subroutine INBOUNDA. " alt="" coords="188,56,271,83"/>
-<area shape="rect" id="node3" href="$lbc__coup__update_8f90.xhtml#a2c51aafe798b241de6166771c418ada6" title="Update LBC coupling. " alt="" coords="319,31,449,57"/>
-<area shape="rect" id="node8" href="$in__bound_8f90.xhtml#af54e61050e727b57af878bf1897b2f8c" title="LL Subroutine IN_BOUND. " alt="" coords="343,81,425,108"/>
-<area shape="rect" id="node4" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="509,5,587,32"/>
-<area shape="rect" id="node7" href="$u__model__4_a_8f90.xhtml#afa05064dab5eba198b461d0928767c7e" title="LL Subroutine: U_MODEL_4A (ENDGAME VERSION) !&gt;LL. " alt="" coords="497,56,599,83"/>
-<area shape="rect" id="node5" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="647,31,728,57"/>
-<area shape="rect" id="node6" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="776,31,859,57"/>
-</map>

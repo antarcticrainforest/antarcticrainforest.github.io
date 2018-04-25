@@ -1,7 +1,0 @@
-<map id="rcf_readnl_runprecip_mod::rcf_readnl_runprecip" name="rcf_readnl_runprecip_mod::rcf_readnl_runprecip">
-<area shape="rect" id="node2" href="$namespacemphys__inputs__mod.xhtml#af1c3a65ecc6403f0cfcd6fb4fac0bb7f" title="mphys_inputs_mod::print\l_nlist_run_precip" alt="" coords="252,5,439,47"/>
-<area shape="rect" id="node3" href="$namespaceumprintmgr.xhtml#aae44897e556705dbf5e945a26538be9a" title="umprintmgr::umprint" alt="" coords="487,13,645,39"/>
-<area shape="rect" id="node4" href="$namespaceumprintmgr.xhtml#a088ce22a18d574e9df7ee1850bfb10c7" title="umprintmgr::umprintopenstream" alt="" coords="693,13,929,39"/>
-<area shape="rect" id="node5" href="$namespaceumprintmgr.xhtml#ad3a290b30a6e25500eabc0bf90330b77" title="umprintmgr::umprintflush" alt="" coords="717,63,906,90"/>
-<area shape="rect" id="node6" href="$namespaceumflush__mod.xhtml#a3a003ab59990bdcb712b443dd5e0d1cd" title="umflush_mod::umflush" alt="" coords="977,63,1148,90"/>
-</map>

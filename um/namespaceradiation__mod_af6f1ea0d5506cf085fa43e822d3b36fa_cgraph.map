@@ -1,9 +1,0 @@
-<map id="radiation_mod::eval_flux_deriv" name="radiation_mod::eval_flux_deriv">
-<area shape="rect" id="node2" href="$namespaceutils__mod.xhtml#a634624f9865fd619988c365e4ee38dcf" title="utils_mod::deriv" alt="" coords="230,165,357,191"/>
-<area shape="rect" id="node3" href="$namespaceutils__mod.xhtml#a27fd469d1bf78e37eae7902444010be4" title="utils_mod::error" alt="" coords="680,133,805,159"/>
-<area shape="rect" id="node7" href="$namespaceutils__mod.xhtml#a342a50c6f6fc85a69eaa3ec622a2ecba" title="utils_mod::interp" alt="" coords="227,99,359,126"/>
-<area shape="rect" id="node8" href="$namespaceradiation__mod.xhtml#a9c64e788daca7a232a3308f8221087fb" title="radiation_mod::dtau_dp" alt="" coords="205,325,381,351"/>
-<area shape="rect" id="node4" href="$namespaceutils__mod.xhtml#af7241d3b5409e6269728c37c50812984" title="utils_mod::search_gridpoint\l_by_height" alt="" coords="429,92,632,133"/>
-<area shape="rect" id="node5" href="$namespaceutils__mod.xhtml#adcb79f21826654c69427237b492c0d1e" title="utils_mod::deriv_gridpoint" alt="" coords="435,41,627,67"/>
-<area shape="rect" id="node6" href="$namespaceutils__mod.xhtml#a68ca86ec0d44e08f2c97becf3a900788" title="utils_mod::find_cubic\l_coeffs" alt="" coords="451,157,610,199"/>
-</map>

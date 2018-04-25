@@ -1,8 +1,0 @@
-<map id="ios_queue_mod::waitfordrain" name="ios_queue_mod::waitfordrain">
-<area shape="rect" id="node2" href="$namespaceio__server__listener.xhtml#a3a43d3b581cc8fe973b1ed0fdfc90ea8" title="io_server_listener\l::ios_waitforqueuedrain" alt="" coords="473,5,647,47"/>
-<area shape="rect" id="node6" href="$namespaceios__queue__mod.xhtml#a6b52a480f92fb8631f7dc50217a63f21" title="SUBROUTINE to put node into Queue (node allocated outside) " alt="" coords="264,64,419,105"/>
-<area shape="rect" id="node3" href="$namespaceio__server__listener.xhtml#a9225cffcf2da72ce400c9af1bbd3d788" title="io_server_listener\l::ios_listener" alt="" coords="909,5,1047,47"/>
-<area shape="rect" id="node4" href="$namespaceio__server__listener.xhtml#a1018f7e8b758ddbedf8c1127ddb0ceea" title="io_server_listener\l::ios_process_normal" alt="" coords="701,64,860,105"/>
-<area shape="rect" id="node5" href="$namespaceio__server__listener.xhtml#a9a50c3ffaabce194980387dc9dcf691f" title="io_server_listener\l::ios_slavelistener" alt="" coords="908,71,1048,112"/>
-<area shape="rect" id="node7" href="$namespaceios__queue__mod.xhtml#ad1070977bec241cf7bc78f70dbc41f45" title="ios_queue_mod::ios\l_put_metadata_in_queue" alt="" coords="467,123,653,164"/>
-</map>

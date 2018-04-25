@@ -1,8 +1,0 @@
-<map id="sl_vector_u" name="sl_vector_u">
-<area shape="rect" id="node2" href="$sl__full__wind_8f90.xhtml#a739c13209ac7d57db72c07bbd5f4f7a7" title="Subroutine SL_Full_Wind. " alt="" coords="149,5,248,32"/>
-<area shape="rect" id="node3" href="$ni__sl__full__wind_8f90.xhtml#a282239161173ea1930089c837257d8e2" title="Subroutine NI_SL_Full_Wind. " alt="" coords="296,5,415,32"/>
-<area shape="rect" id="node4" href="$atm__step_8f90.xhtml#ac0ee2467a1a9959b7065fdb8fd27bce4" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="463,5,545,32"/>
-<area shape="rect" id="node5" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="593,5,672,32"/>
-<area shape="rect" id="node6" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="720,5,801,32"/>
-<area shape="rect" id="node7" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="849,5,932,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="maxwindspline" name="maxwindspline">
-<area shape="rect" id="node2" href="$maxwind_8f90.xhtml#a4b2a6fd51df910e84e3373dc54ed4756" title="Routine to calculate Max Wind value and height. " alt="" coords="175,5,257,32"/>
-<area shape="rect" id="node4" href="$topbase_8f90.xhtml#a626b844f22e59bb9f52cd780de9c8cf6" title="Routine to calculate Max Wind value and height. " alt="" coords="179,56,253,83"/>
-<area shape="rect" id="node3" href="$fieldcalc_8f90.xhtml#ac71d10790a6550f257c927ee60db58b2" title="Program for post&#45;processing of UM output. " alt="" coords="305,31,381,57"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="rcf_readnl_runmurk_mod::rcf_readnl_runmurk" name="rcf_readnl_runmurk_mod::rcf_readnl_runmurk">
-<area shape="rect" id="node2" href="$namespacemurk__inputs__mod.xhtml#ad71a4041f88c96fe3eb417d4af264ae2" title="murk_inputs_mod::print\l_nlist_run_murk" alt="" coords="247,5,424,47"/>
-<area shape="rect" id="node3" href="$namespaceumprintmgr.xhtml#aae44897e556705dbf5e945a26538be9a" title="umprintmgr::umprint" alt="" coords="472,13,631,39"/>
-<area shape="rect" id="node4" href="$namespaceumprintmgr.xhtml#a088ce22a18d574e9df7ee1850bfb10c7" title="umprintmgr::umprintopenstream" alt="" coords="679,13,915,39"/>
-<area shape="rect" id="node5" href="$namespaceumprintmgr.xhtml#ad3a290b30a6e25500eabc0bf90330b77" title="umprintmgr::umprintflush" alt="" coords="702,63,891,90"/>
-<area shape="rect" id="node6" href="$namespaceumflush__mod.xhtml#a3a003ab59990bdcb712b443dd5e0d1cd" title="umflush_mod::umflush" alt="" coords="963,63,1133,90"/>
-</map>

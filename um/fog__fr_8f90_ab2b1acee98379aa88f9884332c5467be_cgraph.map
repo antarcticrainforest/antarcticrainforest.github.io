@@ -1,4 +1,0 @@
-<map id="fog_fr" name="fog_fr">
-<area shape="rect" id="node2" href="$qsat__wat_8f90.xhtml#a0c0fb3b560128ff260172760c051f507" title="Saturation Specific Humidity Scheme (Qsat_Wat): Vapour to Liquid. " alt="" coords="113,5,195,32"/>
-<area shape="rect" id="node3" href="$vistoqt_8f90.xhtml#a71b9cec6b0f6031704266b2e3d0cf033" title="Invert relationship between aerosol, visibility and water content. " alt="" coords="121,56,187,83"/>
-</map>

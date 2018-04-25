@@ -1,9 +1,0 @@
-<map id="boundary_layer_mod::richardson_number" name="boundary_layer_mod::richardson_number">
-<area shape="rect" id="node2" href="$namespaceutils__mod.xhtml#a342a50c6f6fc85a69eaa3ec622a2ecba" title="utils_mod::interp" alt="" coords="225,76,357,103"/>
-<area shape="rect" id="node7" href="$namespaceboundary__layer__mod.xhtml#af72f82596edea620fa670c99d52727c8" title="boundary_layer_mod\l::temphum2vtemp" alt="" coords="212,127,371,169"/>
-<area shape="rect" id="node8" href="$namespaceboundary__layer__mod.xhtml#a3753f8d3e3c60854cfee0bb8f76919b8" title="boundary_layer_mod\l::grav_pot" alt="" coords="212,193,371,234"/>
-<area shape="rect" id="node3" href="$namespaceutils__mod.xhtml#a27fd469d1bf78e37eae7902444010be4" title="utils_mod::error" alt="" coords="669,76,795,103"/>
-<area shape="rect" id="node4" href="$namespaceutils__mod.xhtml#af7241d3b5409e6269728c37c50812984" title="utils_mod::search_gridpoint\l_by_height" alt="" coords="419,35,621,77"/>
-<area shape="rect" id="node5" href="$namespaceutils__mod.xhtml#a68ca86ec0d44e08f2c97becf3a900788" title="utils_mod::find_cubic\l_coeffs" alt="" coords="441,101,599,142"/>
-<area shape="rect" id="node6" href="$namespaceutils__mod.xhtml#adcb79f21826654c69427237b492c0d1e" title="utils_mod::deriv_gridpoint" alt="" coords="424,167,616,193"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="nudging_netcdf_loader" name="nudging_netcdf_loader">
-<area shape="rect" id="node2" href="$nudging__getfilename_8f90.xhtml#af78b177cec96e2a38408ab7781f9645b" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="250,5,409,32"/>
-<area shape="rect" id="node5" href="$nudging__netcdf__dimreader_8f90.xhtml#a6be97d0f0e0f6ed2ce58b9020b70488a" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="231,56,427,83"/>
-<area shape="rect" id="node6" href="$nudging__netcdf__vareader__4d_8f90.xhtml#a1a0220167cca442addd052cdfcaba796" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="224,107,435,133"/>
-<area shape="rect" id="node7" href="$nudging__netcdf__vareader__3d_8f90.xhtml#aefca196355752a275b20e641caa96173" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="224,157,435,184"/>
-<area shape="rect" id="node3" href="$nudging__getdate_8f90.xhtml#a22b6d433e5787873499d75652388607e" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="483,5,613,32"/>
-<area shape="rect" id="node4" href="$nudging__getleap_8f90.xhtml#aa79b455a66a98bebe9cdb6cb8cebb024" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="661,5,792,32"/>
-</map>

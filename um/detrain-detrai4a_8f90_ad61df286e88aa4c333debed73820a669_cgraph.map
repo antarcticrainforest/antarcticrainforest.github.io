@@ -1,6 +1,0 @@
-<map id="detrain_4a5a" name="detrain_4a5a">
-<area shape="rect" id="node2" href="$thp__det-thpdet4a_8f90.xhtml#acbc4e2799264d60a215ddcddeb6f442e" title="Calculates theta of the parcel in layer k+1 after forced detrainment. " alt="" coords="162,5,273,32"/>
-<area shape="rect" id="node3" href="$qsat_8f90.xhtml#aea6c2f88cb65e881fc815b7be5559cc9" title="Saturation Specific Humidity Scheme (Qsat): Vapour to Liquid/Ice. " alt="" coords="323,81,373,108"/>
-<area shape="rect" id="node4" href="$thetar-thetar1a_8f90.xhtml#a07b7bd1ca4b17bf8c80e5265a555d211" title="Calculates theta and q of detraining air in layer k. " alt="" coords="167,107,267,133"/>
-<area shape="rect" id="node5" href="$det__rate-detrat3c_8f90.xhtml#adb797eb497db15c10b3f2c8707eaba06" title="Calculates forced detrainment rate in layer K. " alt="" coords="160,157,275,184"/>
-</map>

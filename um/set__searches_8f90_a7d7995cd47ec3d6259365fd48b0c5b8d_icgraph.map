@@ -1,7 +1,0 @@
-<map id="set_searches" name="set_searches">
-<area shape="rect" id="node2" href="$read__lsms_8f90.xhtml#adb662539b53540078ee72b2bc3b33a4d" title="Programming standard: Unified Model Documentation Paper No 3. " alt="" coords="160,31,249,57"/>
-<area shape="rect" id="node3" href="$flux__process_8f90.xhtml#aa4dfcc67002fe61814d5d93db54c4d94" title="Programming standard: Unified Model Documentation Paper No 3. " alt="" coords="321,5,423,32"/>
-<area shape="rect" id="node5" href="$flux__transform__grid_8f90.xhtml#a47016ff48dce53ea7aae177201e3ee57" title="contains routines: Flux_Transform_Grid " alt="" coords="297,56,447,83"/>
-<area shape="rect" id="node4" href="$flux__process__main_8f90.xhtml#aa4f9adbe127f17a972e1284856a37f9c" title="Programming standard: Unified Model Documentation Paper No 3. " alt="" coords="502,5,645,32"/>
-<area shape="rect" id="node6" href="$flux__transform__main_8f90.xhtml#a9514a018945b31f3f7749d95c2e47c5e" title="contains progam: Flux_Transform_Main " alt="" coords="495,56,652,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="rcf_bcaststm_mod::rcf_bcaststm" name="rcf_bcaststm_mod::rcf_bcaststm">
-<area shape="rect" id="node2" href="$namespacercf__getppx__mod.xhtml#a7949dc7e748a0382021b0c853ede7467" title="rcf_getppx_mod::rcf\l_getppx" alt="" coords="220,5,372,47"/>
-<area shape="rect" id="node3" href="$namespacercf__stash__proc__mod.xhtml#a5422fb8b67d6d3f784db42655965e0cb" title="Subroutine Rcf_Stash_Proc &#45; STASH processing. " alt="" coords="420,5,572,47"/>
-<area shape="rect" id="node4" href="$namespacercf__stash__init__mod.xhtml#aa6e136bda16263b0a6915a25bbf4c4fa" title="Subroutine Rcf_Stash_Init &#45; initialisation of STASH variables. " alt="" coords="620,5,765,47"/>
-<area shape="rect" id="node5" href="$namespacercf__initialise__mod.xhtml#ab7086bd455bd5857b757207d0255c3f4" title="Subroutine Rcf_Initialise &#45; initialisation tasks. " alt="" coords="813,5,952,47"/>
-<area shape="rect" id="node6" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="1000,13,1095,39"/>
-</map>

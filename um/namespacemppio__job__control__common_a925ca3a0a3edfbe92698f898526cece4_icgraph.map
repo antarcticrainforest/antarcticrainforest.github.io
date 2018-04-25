@@ -1,5 +1,0 @@
-<map id="mppio_job_control_common::jc_write" name="mppio_job_control_common::jc_write">
-<area shape="rect" id="node2" href="$interfacemppio__job__control_1_1jobcntrl.xhtml#a214c0ae002c5a250555d32351e973645" title="mppio_job_control::\ljobcntrl::jobcntrl_string" alt="" coords="293,5,465,47"/>
-<area shape="rect" id="node3" href="$interfacemppio__job__control_1_1jobcntrl.xhtml#ac54256b2339388af7a30805ee7d75336" title="mppio_job_control::\ljobcntrl::jobcntrl_commandstring" alt="" coords="260,71,497,112"/>
-<area shape="rect" id="node4" href="$namespaceio__server__writer.xhtml#acf5c5530ae80f9fcd7bb3206d80395d9" title="io_server_writer::ios\l_writer" alt="" coords="301,136,456,177"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="rcf_locate_alt_field_mod::rcf_locate_alt_field" name="rcf_locate_alt_field_mod::rcf_locate_alt_field">
-<area shape="rect" id="node2" href="$namespacercf__create__dump__mod.xhtml#a2f1f869ea648718c07cc083ce73c40c9" title="Subroutine Rcf_Create_Dump &#45; main dump creation loop. " alt="" coords="484,5,651,47"/>
-<area shape="rect" id="node5" href="$namespacercf__set__interp__flags__mod.xhtml#aaa6f3901228330eb9e9a6c1a2f94883f" title="Subroutine to set interp flags for intput fields based on h_int_active, v_int_active and internal rul..." alt="" coords="243,35,436,76"/>
-<area shape="rect" id="node3" href="$namespacercf__control__mod.xhtml#a3ac6d1c6311ded848ddd750726da301a" title="Subroutine Rcf_Control &#45; main control routine. " alt="" coords="699,5,851,47"/>
-<area shape="rect" id="node4" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="899,13,993,39"/>
-</map>

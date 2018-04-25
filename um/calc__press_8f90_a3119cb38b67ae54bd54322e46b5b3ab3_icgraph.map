@@ -1,5 +1,0 @@
-<map id="calc_press" name="calc_press">
-<area shape="rect" id="node2" href="$scm__main_8f90.xhtml#a2c730136605550612e094ce51d33a2a5" title="*********************************COPYRIGHT********************************* " alt="" coords="263,5,352,32"/>
-<area shape="rect" id="node4" href="$run__init_8f90.xhtml#aa8d2637e188e64d85fda47414567d25f" title="SUBROUTINE Run_Init. " alt="" coords="144,31,215,57"/>
-<area shape="rect" id="node3" href="$scm__shell_8f90.xhtml#ab15255829ee7b5be626b1c0861b40c8d" title="scm_shell is the main calling program for the Single Column Model. " alt="" coords="400,5,487,32"/>
-</map>

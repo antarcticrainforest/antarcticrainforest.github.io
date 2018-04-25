@@ -1,5 +1,0 @@
-<map id="racmo_netcdf::racmo_nc_grid_to_scm" name="racmo_netcdf::racmo_nc_grid_to_scm">
-<area shape="rect" id="node2" href="$namespacenetcdf__obs.xhtml#aa213273e45276557462da71fa38b5523" title="============================================================================== " alt="" coords="213,13,413,39"/>
-<area shape="rect" id="node3" href="$scm__main_8f90.xhtml#a2c730136605550612e094ce51d33a2a5" title="*********************************COPYRIGHT********************************* " alt="" coords="461,13,551,39"/>
-<area shape="rect" id="node4" href="$scm__shell_8f90.xhtml#ab15255829ee7b5be626b1c0861b40c8d" title="scm_shell is the main calling program for the Single Column Model. " alt="" coords="599,13,685,39"/>
-</map>

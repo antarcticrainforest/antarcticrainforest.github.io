@@ -1,6 +1,0 @@
-<map id="submodel_mod::print_nlist_nsubmodl" name="submodel_mod::print_nlist_nsubmodl">
-<area shape="rect" id="node2" href="$namespacercf__readnl__nsubmodl__mod.xhtml#a358509a284a8c6d7ed9a77595f52394b" title="Subroutine Rcf_Readnl_Nsubmodl &#45; reads the NSUBMODL namelist. " alt="" coords="213,35,416,76"/>
-<area shape="rect" id="node3" href="$namespacercf__read__namelists__mod.xhtml#a03f55943f24c46a584c68e062c7c51b8" title="Subroutine Rcf_Read_Namelists &#45; read the rcf namelists. " alt="" coords="464,35,655,76"/>
-<area shape="rect" id="node4" href="$namespacercf__initialise__mod.xhtml#ab7086bd455bd5857b757207d0255c3f4" title="Subroutine Rcf_Initialise &#45; initialisation tasks. " alt="" coords="703,5,841,47"/>
-<area shape="rect" id="node5" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="889,42,984,69"/>
-</map>

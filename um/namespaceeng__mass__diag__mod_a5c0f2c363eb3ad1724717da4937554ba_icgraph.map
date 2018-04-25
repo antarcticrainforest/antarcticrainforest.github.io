@@ -1,9 +1,0 @@
-<map id="eng_mass_diag_mod::eng_mass_diag" name="eng_mass_diag_mod::eng_mass_diag">
-<area shape="rect" id="node2" href="$init__emcorr-inemcr1a_8f90.xhtml#a1f235415b9f46f85b2d94d1ab70a5b86" title="Subroutine: INIT_EMCORR. " alt="" coords="225,5,321,32"/>
-<area shape="rect" id="node3" href="$atm__step_8f90.xhtml#ac0ee2467a1a9959b7065fdb8fd27bce4" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="232,56,315,83"/>
-<area shape="rect" id="node7" href="$atm__step__4_a_8f90.xhtml#a2319aa4963e90c64cd78bdcd5f481095" title="Perform a 1&#45;timestep integration of the Atmosphere Model. " alt="" coords="220,107,327,133"/>
-<area shape="rect" id="node4" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="386,56,465,83"/>
-<area shape="rect" id="node5" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="524,81,605,108"/>
-<area shape="rect" id="node6" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="653,81,736,108"/>
-<area shape="rect" id="node8" href="$u__model__4_a_8f90.xhtml#afa05064dab5eba198b461d0928767c7e" title="LL Subroutine: U_MODEL_4A (ENDGAME VERSION) !&gt;LL. " alt="" coords="375,107,476,133"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="ios_queue_mod::ios_get_node_from_queue" name="ios_queue_mod::ios_get_node_from_queue">
-<area shape="rect" id="node2" href="$namespaceio__server__listener.xhtml#a9282a1bb669d0ab223742b8c62cd16e5" title="io_server_listener\l::ios_aux_thread1_assist" alt="" coords="228,54,411,95"/>
-<area shape="rect" id="node8" href="$namespaceio__server__writer.xhtml#acf5c5530ae80f9fcd7bb3206d80395d9" title="io_server_writer::ios\l_writer" alt="" coords="242,119,397,160"/>
-<area shape="rect" id="node3" href="$namespaceio__server__listener.xhtml#a9a50c3ffaabce194980387dc9dcf691f" title="io_server_listener\l::ios_slavelistener" alt="" coords="888,20,1028,62"/>
-<area shape="rect" id="node4" href="$namespaceio__server__listener.xhtml#a9225cffcf2da72ce400c9af1bbd3d788" title="io_server_listener\l::ios_listener" alt="" coords="889,86,1027,127"/>
-<area shape="rect" id="node5" href="$namespaceio__server__listener.xhtml#a3a43d3b581cc8fe973b1ed0fdfc90ea8" title="io_server_listener\l::ios_waitforqueuedrain" alt="" coords="459,86,633,127"/>
-<area shape="rect" id="node7" href="$namespaceio__server__listener.xhtml#a7d2b184d10ab3562e4fce46101ec5fa2" title="io_server_listener\l::ios_waitforfreespace" alt="" coords="463,20,629,62"/>
-<area shape="rect" id="node6" href="$namespaceio__server__listener.xhtml#a1018f7e8b758ddbedf8c1127ddb0ceea" title="io_server_listener\l::ios_process_normal" alt="" coords="681,23,840,64"/>
-</map>

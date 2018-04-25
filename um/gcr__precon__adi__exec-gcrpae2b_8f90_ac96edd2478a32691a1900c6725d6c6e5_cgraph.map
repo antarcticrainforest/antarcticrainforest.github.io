@@ -1,9 +1,0 @@
-<map id="gcr_precon_adi_exec_2b" name="gcr_precon_adi_exec_2b">
-<area shape="rect" id="node2" href="$namespaceglobal__2d__sums__mod.xhtml#ac3fe3c2679168085c4635a17e5f82215" title="global_2d_sums_mod\l::global_2d_sums" alt="" coords="461,5,624,47"/>
-<area shape="rect" id="node3" href="$swap__bounds-swpbnd2a_8f90.xhtml#aa0269e41062e156c437596022ea9ccd0" title="Portable GCOM based version SWAP_BOUNDS. " alt="" coords="487,82,598,109"/>
-<area shape="rect" id="node5" href="$gcr__elliptic__operator-gcrell2b_8f90.xhtml#a0d8a0e133d89cac3d202e34933e41745" title="Subroutine GCR_Elliptic_Operator_2B. " alt="" coords="235,53,413,79"/>
-<area shape="rect" id="node6" href="$solve__forward__x2_8f90.xhtml#a85315af01cd761bf23926520911503f1" title="Subroutine solve_forward_x2. " alt="" coords="255,154,393,181"/>
-<area shape="rect" id="node7" href="$solve__backward__x1_8f90.xhtml#ad16ba821c6ee0cef37b0276b4002c6e9" title="Subroutine solve_backward_x1. " alt="" coords="249,205,399,231"/>
-<area shape="rect" id="node8" href="$solve__forward__y2_8f90.xhtml#a165c227d7694d4a931ad5789c5c5b970" title="Subroutine solve_forward_y2. " alt="" coords="255,255,393,282"/>
-<area shape="rect" id="node4" href="$fill__external__halos_8f90.xhtml#a9f4e1e061e136821fb9a51281a5e69c2" title="Routine for filling in External Halos. " alt="" coords="672,82,813,109"/>
-</map>

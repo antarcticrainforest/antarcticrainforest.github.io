@@ -1,8 +1,0 @@
-<map id="bdy_expl1" name="bdy_expl1">
-<area shape="rect" id="node2" href="$vertical__diffs_8f90.xhtml#af98a4e03b488b13ff5d63fff1f26f467" title="SUBROUTINE VERTICAL_DIFFS SUBROUTINE VERTICAL_DIFFS PURPOSE: Calculate vertical differences required ..." alt="" coords="143,69,249,96"/>
-<area shape="rect" id="node6" href="$buoy__tq_8f90.xhtml#ad53e19e42e98eab0a8b898b3abb25806" title="SUBROUTINE BUOY_TQ SUBROUTINE BUOY_TQ. " alt="" coords="159,132,233,159"/>
-<area shape="rect" id="node3" href="$namespacep__to__t__mod.xhtml#aebcf01f55fc6c14caf1a447559e60833" title="p_to_t_mod::p_to_t" alt="" coords="300,5,447,32"/>
-<area shape="rect" id="node4" href="$namespacep__to__u__mod.xhtml#aac0abba1ea8363a99e455694423eb597" title="p_to_u_mod::p_to_u" alt="" coords="297,56,449,83"/>
-<area shape="rect" id="node5" href="$namespacep__to__v__mod.xhtml#a537c97fef8af9b8795a46407995b67d2" title="p_to_v_mod::p_to_v" alt="" coords="297,107,449,133"/>
-<area shape="rect" id="node7" href="$qsat__mix_8f90.xhtml#ab2c9bd03497c107afdc2ea71e3887626" title="Saturation Specific Humidity/mixing Scheme(Qsat):Vapour to Liquid/Ice. " alt="" coords="332,157,415,184"/>
-</map>

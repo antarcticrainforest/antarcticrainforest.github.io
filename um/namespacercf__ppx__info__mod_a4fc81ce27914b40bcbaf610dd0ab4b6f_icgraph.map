@@ -1,6 +1,0 @@
-<map id="rcf_ppx_info_mod::print_nlist_ustsnum" name="rcf_ppx_info_mod::print_nlist_ustsnum">
-<area shape="rect" id="node2" href="$namespacercf__readnl__ustsnum__mod.xhtml#ab19078cc7e2faee92a43b969211dcdef" title="Subroutine Rcf_Readnl_Ustsnum &#45; reads the ustsnum namelist. " alt="" coords="229,35,424,76"/>
-<area shape="rect" id="node3" href="$namespacercf__read__namelists__mod.xhtml#a03f55943f24c46a584c68e062c7c51b8" title="Subroutine Rcf_Read_Namelists &#45; read the rcf namelists. " alt="" coords="472,35,663,76"/>
-<area shape="rect" id="node4" href="$namespacercf__initialise__mod.xhtml#ab7086bd455bd5857b757207d0255c3f4" title="Subroutine Rcf_Initialise &#45; initialisation tasks. " alt="" coords="711,5,849,47"/>
-<area shape="rect" id="node5" href="$reconfigure_8f90.xhtml#a55389899cfceedbb4b0f908c73988c0c" title="Top level program for reconfiguration. " alt="" coords="897,42,992,69"/>
-</map>

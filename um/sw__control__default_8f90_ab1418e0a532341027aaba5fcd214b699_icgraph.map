@@ -1,8 +1,0 @@
-<map id="sw_control_default" name="sw_control_default">
-<area shape="rect" id="node2" href="$namespacesw__rad__input__mod.xhtml#ab33da522e44bb6ea4bd0a8eea27d134f" title="Second set of control options for the second radiation call:CHARACTER (LEN=132) :: spectral_file_sw2L..." alt="" coords="199,49,369,90"/>
-<area shape="rect" id="node3" href="$readlsta_8f90.xhtml#a6be7c745662b87214220c8519949fefe" title="Read run&#45;time control information from namelists for atmos model. " alt="" coords="429,5,504,32"/>
-<area shape="rect" id="node6" href="$readlsta__4_a_8f90.xhtml#abc5fe175d74e13235464439055294edc" title="Read run&#45;time control information from namelists for atmos model. " alt="" coords="417,56,516,83"/>
-<area shape="rect" id="node7" href="$scm__shell_8f90.xhtml#ab15255829ee7b5be626b1c0861b40c8d" title="scm_shell is the main calling program for the Single Column Model. " alt="" coords="423,107,510,133"/>
-<area shape="rect" id="node4" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="564,31,645,57"/>
-<area shape="rect" id="node5" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="693,31,776,57"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="rcf_gather_ocean_lbcs_mod::rcf_gather_ocean_lbcs" name="rcf_gather_ocean_lbcs_mod::rcf_gather_ocean_lbcs">
-<area shape="rect" id="node2" href="$namespacercf__address__length__mod.xhtml#ac762ac17a67256a8b206cedfe7ace7e3" title="Subroutine Rcf_Address_Length &#45; determines field size. " alt="" coords="264,35,453,76"/>
-<area shape="rect" id="node3" href="$namespacercf__level__code__mod.xhtml#ab662837c0414874b83675887f890c6ab" title="Sets ILOUT to an appropriate level size according to the value of ILIN. " alt="" coords="501,5,653,47"/>
-<area shape="rect" id="node4" href="$lltorc_8f90.xhtml#a1b56b2e3d06737db1e41ebaca802bce6" title="Convert lat/long specification to row/column specification. " alt="" coords="550,71,605,98"/>
-<area shape="rect" id="node5" href="$namespacercf__global__to__local__mod.xhtml#a77b8a85bffb7822e380fae0f558091d1" title="rcf_global_to_local\l_mod::rcf_get_fld_type" alt="" coords="701,5,872,47"/>
-<area shape="rect" id="node6" href="$gt__decode_8f90.xhtml#a6e18f6bdab351d4581f650061e35c8f8" title="Returns information about a given grid type. " alt="" coords="742,71,831,98"/>
-<area shape="rect" id="node7" href="$lltoll_8f90.xhtml#ab73fd16c9f8ff040d2480fe112b6a1cd" title="Use subroutine LLTOEQ to convert to equatorial lat/lon for LAM. " alt="" coords="761,122,812,149"/>
-<area shape="rect" id="node8" href="$namespacelltoeq__mod.xhtml#a3c9637ba83181ca868444be33867cdaa" title="lltoeq_mod::lltoeq" alt="" coords="920,122,1060,149"/>
-</map>

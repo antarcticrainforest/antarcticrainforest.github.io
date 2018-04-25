@@ -1,8 +1,0 @@
-<map id="ac_stash_mod::ac_stash" name="ac_stash_mod::ac_stash">
-<area shape="rect" id="node2" href="$namespaceumprintmgr.xhtml#aae44897e556705dbf5e945a26538be9a" title="umprintmgr::umprint" alt="" coords="404,21,563,48"/>
-<area shape="rect" id="node6" href="$set__levels__list_8f90.xhtml#a7047599e3e5b5dada45a1616ed44a537" title="Subroutine SET_LEVELS_LIST. " alt="" coords="237,21,352,48"/>
-<area shape="rect" id="node7" href="$set__pseudo__list_8f90.xhtml#ae4ca239784b5652698792a96baa6a65e" title="Subroutine SET_PSEUDO_LIST &#45;!&gt;!&gt; Purpose : To set up a list of pseudo levels at which a diagnostic..." alt="" coords="233,72,356,99"/>
-<area shape="rect" id="node3" href="$namespaceumprintmgr.xhtml#a088ce22a18d574e9df7ee1850bfb10c7" title="umprintmgr::umprintopenstream" alt="" coords="611,21,847,48"/>
-<area shape="rect" id="node4" href="$namespaceumprintmgr.xhtml#ad3a290b30a6e25500eabc0bf90330b77" title="umprintmgr::umprintflush" alt="" coords="634,72,823,99"/>
-<area shape="rect" id="node5" href="$namespaceumflush__mod.xhtml#a3a003ab59990bdcb712b443dd5e0d1cd" title="umflush_mod::umflush" alt="" coords="895,72,1065,99"/>
-</map>

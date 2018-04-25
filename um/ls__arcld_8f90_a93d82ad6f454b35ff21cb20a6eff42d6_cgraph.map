@@ -1,8 +1,0 @@
-<map id="ls_arcld" name="ls_arcld">
-<area shape="rect" id="node2" href="$ls__cld_8f90.xhtml#a2244f8b9237d1f3076b62c25fff15580" title="Large&#45;scale Cloud Scheme. " alt="" coords="151,81,210,108"/>
-<area shape="rect" id="node4" href="$qsat__wat__mix_8f90.xhtml#a2c76d0fec243d54bbf3512ebc16d81dc" title="Saturation Specific Humidity Scheme (Qsat_Wat): Vapour to Liquid. " alt="" coords="489,107,603,133"/>
-<area shape="rect" id="node7" href="$ls__acf__brooks_8f90.xhtml#a63af0c69b0ce0df3b5570af35c2035df" title="Subroutine Interface: " alt="" coords="125,208,236,235"/>
-<area shape="rect" id="node3" href="$namespacevectlib__mod.xhtml#ae619493e9e4d10fb153e38fc3413a371" title="vectlib_mod::powr_v" alt="" coords="284,5,441,32"/>
-<area shape="rect" id="node6" href="$ls__cld__c_8f90.xhtml#a5dd4dbd3dc8b89925c2887b6cc0ed299" title="Large&#45;scale Cloud Scheme. " alt="" coords="326,107,399,133"/>
-<area shape="rect" id="node5" href="$namespacevectlib__mod.xhtml#a158dc38b092e77b3f84dc889d5ed2bd3" title="vectlib_mod::oneover_v" alt="" coords="651,107,829,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="lengths" name="lengths">
-<area shape="rect" id="node2" href="$inithdrs_8f90.xhtml#a3c31bab5dc025c6dbd5ff986a353f77e" title="SUBROUTINE INITHDRS &#45;!&gt; " alt="" coords="126,5,197,32"/>
-<area shape="rect" id="node3" href="$meanctl_8f90.xhtml#a5bbbf6327297fa87e7a0d9b511eb2b00" title="Subroutine: MEANCTL&#45;!&gt; " alt="" coords="124,56,199,83"/>
-<area shape="rect" id="node4" href="$u__model_8f90.xhtml#ada0cd2ce4699433bf0f9adbd882c8eec" title="Subroutine: U_MODEL &#45;!&gt; " alt="" coords="258,31,337,57"/>
-<area shape="rect" id="node7" href="$u__model__4_a_8f90.xhtml#afa05064dab5eba198b461d0928767c7e" title="LL Subroutine: U_MODEL_4A (ENDGAME VERSION) !&gt;LL. " alt="" coords="247,81,348,108"/>
-<area shape="rect" id="node5" href="$um__shell_8f90.xhtml#a8c9bd25362824a5c301376ecb5ed5c27" title="Subroutine: UM_SHELL !&gt; " alt="" coords="396,56,477,83"/>
-<area shape="rect" id="node6" href="$um__main_8f90.xhtml#a8f2d13215621443a5313261c282f098b" title="Code Owner: See Unified Model Code Owner&#39;s HTML page. " alt="" coords="525,56,608,83"/>
-</map>

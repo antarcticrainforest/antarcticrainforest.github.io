@@ -1,7 +1,0 @@
-<map id="rcf_readnl_nsubmodl_mod::rcf_readnl_nsubmodl" name="rcf_readnl_nsubmodl_mod::rcf_readnl_nsubmodl">
-<area shape="rect" id="node2" href="$namespaceumprintmgr.xhtml#aae44897e556705dbf5e945a26538be9a" title="umprintmgr::umprint" alt="" coords="464,13,623,39"/>
-<area shape="rect" id="node6" href="$namespacesubmodel__mod.xhtml#a88da6c8daa378c710d605a607f4c23e6" title="submodel_mod::print\l_nlist_nsubmodl" alt="" coords="256,35,416,76"/>
-<area shape="rect" id="node3" href="$namespaceumprintmgr.xhtml#a088ce22a18d574e9df7ee1850bfb10c7" title="umprintmgr::umprintopenstream" alt="" coords="671,13,907,39"/>
-<area shape="rect" id="node4" href="$namespaceumprintmgr.xhtml#ad3a290b30a6e25500eabc0bf90330b77" title="umprintmgr::umprintflush" alt="" coords="694,63,883,90"/>
-<area shape="rect" id="node5" href="$namespaceumflush__mod.xhtml#a3a003ab59990bdcb712b443dd5e0d1cd" title="umflush_mod::umflush" alt="" coords="955,63,1125,90"/>
-</map>

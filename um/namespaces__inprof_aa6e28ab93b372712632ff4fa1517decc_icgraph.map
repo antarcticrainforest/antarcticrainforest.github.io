@@ -1,6 +1,0 @@
-<map id="s_inprof::alloc_inprof" name="s_inprof::alloc_inprof">
-<area shape="rect" id="node2" href="$namespaces__inprof.xhtml#a2d2b8c506b2e488e82b04499373a8838" title="s_inprof::read_inprof" alt="" coords="212,5,368,32"/>
-<area shape="rect" id="node3" href="$read__scm__nml_8f90.xhtml#af3d01a68b9750a66d402c5c7312acdf2" title="Reads in forcing file &#39;namelist.scm&#39; and passes data back to scm_main. " alt="" coords="416,5,533,32"/>
-<area shape="rect" id="node4" href="$scm__main_8f90.xhtml#a2c730136605550612e094ce51d33a2a5" title="*********************************COPYRIGHT********************************* " alt="" coords="581,5,671,32"/>
-<area shape="rect" id="node5" href="$scm__shell_8f90.xhtml#ab15255829ee7b5be626b1c0861b40c8d" title="scm_shell is the main calling program for the Single Column Model. " alt="" coords="719,5,805,32"/>
-</map>

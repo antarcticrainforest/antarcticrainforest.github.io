@@ -1,7 +1,0 @@
-<map id="nudging_interpolation_zero_d" name="nudging_interpolation_zero_d">
-<area shape="rect" id="node2" href="$nudging__ecmwf__to__mod_8f90.xhtml#ad65884ef547c4aab2800cd8bdb321d4f" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="217,5,399,32"/>
-<area shape="rect" id="node5" href="$nudging__main1-nudging__main1_8f90.xhtml#a0dd0b0ca0f1ac4c79267b484c778709a" title="The code `nudges&#39; model variables towards meteorological analyses. " alt="" coords="961,81,1084,108"/>
-<area shape="rect" id="node6" href="$nudging__pres__to__mod_8f90.xhtml#a4808d6bc1d07d094961be0d81770f36b" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="225,56,391,83"/>
-<area shape="rect" id="node3" href="$nudging__varloader__pressure__lev_8f90.xhtml#a962a35ecabe5f6cdcd4272304c2fb641" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="447,56,680,83"/>
-<area shape="rect" id="node4" href="$nudging__nudging__control_8f90.xhtml#adc4efaf7f7d9e5793a8e476203dfc34d" title="(c) [University of Cambridge] [2008]. All rights reserved. " alt="" coords="728,56,913,83"/>
-</map>
