@@ -17,6 +17,8 @@
 </HEAD>
 
 <body>
+<script type="text/javascript" src="javascript/jquery-1.10.2.js"></script>
+<script type="text/javascript" src="javascript/jquery-ui.js"></script>
 <script type="text/javascript" src="javascript/wz_tooltip.js"></script>
 <script type="text/javascript" src="javascript/accordion.js"></script>
 <script type="text/javascript" src="javascript/modal_images.js"></script>
@@ -284,6 +286,49 @@ for (i = 0; i < acc.length; i++) {
     } 
   }
 }
+</script>
+
+<script>
+$(document).ready(function() {
+
+    $("#button").accordion({
+         active: false,
+         collapsible: true,
+         autoHeight: false,
+         navigation: true,
+         header: '.accordion'
+    }); 
+
+    $(".button").click(function(event){
+        window.location.hash=this.hash;
+    });
+
+    //get the hash value
+    var locationHash = window.location.hash;
+    //split the value
+    var hashSplit = locationHash.split('#');
+
+    //get the tab number
+    var currentTab = hashSplit[1];
+    console.log('loc:', parseInt(currentTab)-1);
+    var acc = document.getElementsByClassName("accordion")
+    var i = parseInt(currentTab)-1;
+    if ( ! isNaN(i) ){
+      var tab = acc[i]
+      tab.classList.toggle("active");
+      var panel = tab.nextElementSibling;
+      if (panel.style.maxHeight){
+        panel.style.maxHeight = null;
+      } else {
+        panel.style.maxHeight = panel.scrollHeight + "px";
+      }
+    window.setTimeout(function(){
+        //open the tab for the current hash
+        $("#button").accordion({ active: parseInt(currentTab)-1 });
+    }, 1000);
+    }
+
+});
 </script>
 
 </p>
