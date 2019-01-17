@@ -63,6 +63,7 @@ html {
 }
 .reveal pre code {
   padding: 0px;
+  font-size: 100%;
 }
 .reveal section img {
   border: 0px solid black;
@@ -89,24 +90,49 @@ div.code_cell {
   background-color: transparent;
 }
 div.prompt {
-  width: 13ex;
-  padding: 0.4em;
-  margin: 0px;
-  font-family: monospace, serif;
-  font-size: 30%;
-  text-align: right;
+   padding:0.0em;
+   margin: 0px;
+   line-height: 0.4;
+   font-family: monospace, serif;
+   font-size: 50%;
+   text-align: left;
 }
+div.input_prompt {
+  /* 5px right shift to account for margin in parent container */
+  margin: 3px 3px 0 0;
+   font-size: 0%;
+   line-height: 0.2;
+}
+
+div.input_area {
+  font-family: monospace, serif;
+  font-size: 150%;
+  line-height: 1.1;
+}
+div.output_text {
+  padding:0.4em;
+  font-family: monospace, serif;
+  font-size: 120%;
+  line-height: 1.1;
+  text-align: left;
+}
+
+
+
 div.output_area pre {
   font-family: monospace, serif;
-  font-size: 30%;
+  font-size: 50%;
 }
 div.output_prompt {
   /* 5px right shift to account for margin in parent container */
   margin: 3px 3px 0 0;
+   font-size: 80%;
+   line-height: 0.2;
 }
 .rendered_html p {
   text-align: inherit;
 }
+
 </style>
 
 <!-- Add favicon -->
