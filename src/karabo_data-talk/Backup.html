@@ -2,7 +2,7 @@
 <html>
 <head><meta charset="utf-8" />
 
-<title>OfflineAnalysis</title>
+<title>Offline Data Analysis</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -13179,70 +13179,43 @@ Slides are also available: <a href="https://bit.ly/2Hvuqcu">https://bit.ly/2Hvuq
 </div>
 </div>
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[4]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>lsxfel /gpfs/exfel/exp/XMPL/201750/p700000/raw/r0273
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>r0273 : Run directory
-
-# of trains:    156
-Duration:       0:00:15.500000
-First train ID: 198425241
-Last train ID:  198425396
-
-16 detector modules (SPB_DET_AGIPD1M-1)
-  e.g. module SPB_DET_AGIPD1M-1 0 : 512 x 128 pixels
-  176 frames per train, 27456 total frames
-
-2 instrument sources (excluding detectors):
-  - SA1_XTD2_XGM/XGM/DOOCS:output
-  - SPB_XTD9_XGM/XGM/DOOCS:output
-
-13 control sources:
-  - ACC_SYS_DOOCS/CTRL/BEAMCONDITIONS
-  - SA1_XTD2_XGM/XGM/DOOCS
-  - SPB_IRU_AGIPD1M/PSC/HV
-  - SPB_IRU_AGIPD1M/TSENS/H1_T_EXTHOUS
-  - SPB_IRU_AGIPD1M/TSENS/H2_T_EXTHOUS
-  - SPB_IRU_AGIPD1M/TSENS/Q1_T_BLOCK
-  - SPB_IRU_AGIPD1M/TSENS/Q2_T_BLOCK
-  - SPB_IRU_AGIPD1M/TSENS/Q3_T_BLOCK
-  - SPB_IRU_AGIPD1M/TSENS/Q4_T_BLOCK
-  - SPB_IRU_AGIPD1M1/CTRL/MC1
-  - SPB_IRU_AGIPD1M1/CTRL/MC2
-  - SPB_IRU_VAC/GAUGE/GAUGE_FR_6
-  - SPB_XTD9_XGM/XGM/DOOCS
-
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Using standard hdf5 tools can be tricky and tedious</p>
+<div class="text_cell_render border-box-sizing rendered_html">
+<font size='2'>
+<div class="highlight"><pre><span></span><span class="gp">$</span>: lsxfel /gpfs/exfel/exp/XMPL/201750/p700000/raw/r0273
+<span class="go">r0273 : Run directory</span>
+
+<span class="gp">#</span> of trains:    <span class="m">156</span>
+<span class="go">Duration:       0:00:15.500000</span>
+<span class="go">First train ID: 198425241</span>
+<span class="go">Last train ID:  198425396</span>
+
+<span class="go">16 detector modules (SPB_DET_AGIPD1M-1)</span>
+<span class="go">  e.g. module SPB_DET_AGIPD1M-1 0 : 512 x 128 pixels</span>
+<span class="go">  176 frames per train, 27456 total frames</span>
+
+<span class="go">2 instrument sources (excluding detectors):</span>
+<span class="go">  - SA1_XTD2_XGM/XGM/DOOCS:output</span>
+<span class="go">  - SPB_XTD9_XGM/XGM/DOOCS:output</span>
+
+<span class="go">13 control sources:</span>
+<span class="go">  - ACC_SYS_DOOCS/CTRL/BEAMCONDITIONS</span>
+<span class="go">  - SA1_XTD2_XGM/XGM/DOOCS</span>
+<span class="go">  - SPB_IRU_AGIPD1M/PSC/HV</span>
+<span class="go">  - SPB_IRU_AGIPD1M/TSENS/H1_T_EXTHOUS</span>
+<span class="go">  - SPB_IRU_AGIPD1M/TSENS/H2_T_EXTHOUS</span>
+<span class="go">  - SPB_IRU_AGIPD1M/TSENS/Q1_T_BLOCK</span>
+<span class="go">  - SPB_IRU_AGIPD1M/TSENS/Q2_T_BLOCK</span>
+<span class="go">  - SPB_IRU_AGIPD1M/TSENS/Q3_T_BLOCK</span>
+<span class="go">  - SPB_IRU_AGIPD1M/TSENS/Q4_T_BLOCK</span>
+<span class="go">  - SPB_IRU_AGIPD1M1/CTRL/MC1</span>
+<span class="go">  - SPB_IRU_AGIPD1M1/CTRL/MC2</span>
+<span class="go">  - SPB_IRU_VAC/GAUGE/GAUGE_FR_6</span>
+<span class="go">  - SPB_XTD9_XGM/XGM/DOOCS</span>
+</font>
+</pre></div></div><p>Using standard hdf5 tools can be tricky and tedious</p>
 
 </div>
 </div>
@@ -13250,7 +13223,7 @@ Last train ID:  198425396
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="karabo-data">karabo-data<a class="anchor-link" href="#karabo-data">&#182;</a></h2><ul>
+<h2 id="karabo-data"><em>karabo-data</em><a class="anchor-link" href="#karabo-data">&#182;</a></h2><ul>
 <li>Python Library that supports Analysis of EuXFEL Data.</li>
 <li>It is Open Source and available on the maxwell cluster @ desy.</li>
 </ul>
@@ -13261,8 +13234,8 @@ Last train ID:  198425396
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Aim of this presentation:</strong>
-Give you a glimpse of what is possible and provide a ground base for your own data analysis at EuXFEL</p>
+<p><strong>Aim of this presentation:</strong></p>
+<p>Give you a glimpse of what is possible and provide a ground base for your own data analysis at EuXFEL</p>
 
 </div>
 </div>
@@ -13279,7 +13252,7 @@ Give you a glimpse of what is possible and provide a ground base for your own da
 <div class="text_cell_render border-box-sizing rendered_html">
 <figure>
 <center><img src='img/AGIPD_module.png' style='height:450px;'></center>
-<figcaption style="text-align: right">An image from a single module of the AGIP-D Detector at SPB</figcaption>
+<figcaption style="text-align: right">Assembled image from the AGIP-D Detector at SPB</figcaption>
 </figure><ul>
 <li>How could this data be retrieved and visualized?</li>
 </ul>
@@ -13290,8 +13263,7 @@ Give you a glimpse of what is possible and provide a ground base for your own da
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Reading a run directory:</strong></p>
-<p>One of the big advantages of karabo-data is that whole runs can be read with only <em>one</em> command:</p>
+<h3 id="Reading-a-run-directory:">Reading a run directory:<a class="anchor-link" href="#Reading-a-run-directory:">&#182;</a></h3><p>One of the big advantages of karabo-data is that whole runs can be read with only <em>one</em> command:</p>
 
 </div>
 </div>
@@ -14444,7 +14416,7 @@ Dimensions without coordinates: dim_0</pre>
 <li>the latest version could be downloaded from GitHub &rarr; <code>git clone https://github.com/European-XFEL/karabo_data.git</code></li>
 </ul>
 <p><strong>A much more detailed documentation is available on <em>readthedocs</em> </strong>:</p>
-<p><a href="https://karabo-data.readthedocs.io/en/latest/">https://karabo-data.readthedocs.io/en/latest/</a></p>
+<p><a href="https://karabo-data.readthedocs.io/en/latest">https://karabo-data.readthedocs.io/en/latest</a></p>
 
 </div>
 </div>
