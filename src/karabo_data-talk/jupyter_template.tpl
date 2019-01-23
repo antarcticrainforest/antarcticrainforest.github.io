@@ -126,7 +126,7 @@ div.output_area pre {
 div.output_prompt {
   /* 5px right shift to account for margin in parent container */
   margin: 3px 3px 0 0;
-   font-size: 80%;
+   font-size: 0%;
    line-height: 0.2;
 }
 .rendered_html p {
