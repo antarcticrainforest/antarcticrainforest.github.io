@@ -1,0 +1,39 @@
+[titles]
+    long_title = 'Dyamond Winter (boreal winter) simulation comparison'
+    period = ['2020-01-21T00:00:00', '2020-02-01T23:45:00']
+    short_title = 'DyamondWinter'
+    datasets = ['dpp0014', 'dpp0015', 'dpp0016', 'nwp', 'ceres']
+[overview]
+    dpp0014 = 'Atmosphere only sapphire physics simulation'
+    dpp0015 = 'Coupled sapphire physics simulation'
+    dpp0016 = 'Coupled sapphire physics simulation with <b>increased ocean albedo (0.12)</b>'
+    nwp = 'Atmosphere only NWP physics simulation'
+[configuration]
+    [configuration.resolution]
+        dpp0014 = '5 km, 90 vertical levels'
+        dpp0016 = '5 km, 90 vertical levels'
+        dpp0015 = '5 km, 90 vertical levels'
+        nwp = '2.5 km, 90 vertical levels'
+    [configuration.period]
+        dpp0016 = '12 days (20/01/2020 - 01/02/2020)'
+        dpp0015 = '40 days (20/01/2020 - 01/03/2020)'
+        dpp0014 = '40 days (20/01/2020 - 01/03/2020)'
+        nwp = '14 days (20/01/2020 - 04/02/2020)'
+[regions]
+    [regions.eureca]
+        lonlatbox = [-60, -50, 10, 16]
+        resolution = '10m'
+        name = 'Eureca4a'
+    [regions.tropics]
+        lonlatbox = [-180, 180, -30, 30]
+        resolution = '110m'
+        name = 'Tropics'
+    [regions.global]
+        lonlatbox = false
+        resolution = '110m'
+        name = 'Global'
+    [regions.southpac]
+        lonlatbox = [-150, -90, -35, -15]
+        resolution = '10m'
+        name = 'South Pacific'
+

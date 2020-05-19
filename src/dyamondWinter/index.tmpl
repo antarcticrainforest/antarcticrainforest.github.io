@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<!--
+  Copyright 2015 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>%short_title</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400italic,500,500italic,700,900|Roboto+Mono:400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.blue_grey-deep_orange.min.css">
+  <link rel="stylesheet" href="styles/index.css" />
+  <script src="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.min.js"></script>
+  <script src="lib/jquery/dist/jquery.min.js"></script>
+  <script src="lib/hammerjs/hammer.min.js"></script>
+  <script src="lib/fastclick/lib/fastclick.js"></script>
+  <script src="scripts/index.js"></script>
+  <style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    td, th {
+      border: 0px solid #ff5722;
+      text-align: left;
+      padding: 8px;
+    }
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+  </style>
+</head>
+<script id="demo" type="text/javascript">
+            $(document).ready(function() {
+                 // our array of objects for some data to play with
+                 var filenames = ["net_surf_energy_jan_20_-_jan_29.png",
+                                   "net_toa_jan_20_-_jan_29.png",
+                                    "prw_jan_20_-_jan_29.png"]
+                var i = 0,
+                nfiles = filenames.length - 1
+                str = '<section class="project tall">'
+                      +'<div class="pages">'
+                      + '<div class="page-scroll">';
+                // loop through all elements in the array, building a form for each object
+                for (; i <= nfiles; i++ ) {
+                    str = str+'\n'
+                    + '<div class="page  image" style="background-color: #FFF ">'
+                    + '  <div class="media loader-parent"  style="color:#3c6caf">'
+                    + '    <div>'
+                    + '      <img src="media/' + filenames[i] +'">'
+                    + '    </div>'
+                    + '    <svg class="loading-spinner" width="64" height="64" viewbox="0 0 64 64">'
+                    + '      <circle cx="32" cy="32" r="20" fill="none" stroke-width="6" stroke-miterlimit="10" stroke="#ccc" />'
+                    + '    </svg>'
+                    + '  </div>'
+                    + '  <div class="caption">'
+                    + '    <p>Comparison of Cloud Species (Cloud-water, -ice, graupel, snow)'
+                    + '       in the NWP (lkm1013) and mbe1940 (increased albedo) run.</p>'
+                    + '  </div>'
+                    + '</div>';
+                };
+                str = str + '</div></div></section>';
+                //append the markup to the DOM
+                console.log(str);
+                $("#filelist").html(str);
+            });
+</script>
+<body>
+
+<header>
+  <h1>%ext_title</h1>
+  <div class="subtitle"><p>DyamondWinter Simulations</p></div>
+  <div class="intro">
+    <p>The following comprises a comparison of Dyamond type simulations during
+       boreal Winter. The analysed time period is <b>%timeperiod</b>.
+   </div>
+</header>
+
+<main>
+<div id="overview"
+<h3>Overview</h3>
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+    %overview_sect
+  </table>
+
+<h4>Links to Additional Quckiplots</h4>
+The Following links give access to additional <em>quickplots</em>:
+    <br>
+   <table>
+    <thead>
+    <tr>
+    <th><strong>Considered Time Period</strong></th>
+    <th><strong>Experiment(s) in Comparison (link)</strong></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Jan 2020</td>
+    <td><a href="https://bit.ly/2LxaCVc" target="_blank">dpp0014</a></td>
+    </tr>
+    <tr>
+    <td>Feb 2020</td>
+    <td><a href="https://bit.ly/2LHV15z" target="_blank">dpp0014</a></td>
+    </tr>
+    <tr>
+    <td>Jan 2020</td>
+    <td><a href="https://bit.ly/2WVFDrq" target="_blank">dpp0015</a></td>
+    </tr>
+    <tr>
+    <td>Feb 2020</td>
+    <td><a href="https://bit.ly/3dMrQKl" target="_blank">dpp0015</a></td>
+    </tr>
+    <tr>
+    <td>Feb 2020</td>
+    <td><a href="https://bit.ly/3fSTGq3" target="_blank">dpp0014 vs dpp0015</a></td>
+    </tr>
+    <tr>
+    <td>Jan 2020</td>
+    <td><a href="https://bit.ly/35ZZzgE" target="_blank">dpp0016</a></td>
+    </tr>
+    <tr>
+    <td>Jan 2020</td>
+    <td><a href="https://bit.ly/3fQrJzo" target="_blank">dpp0016 vs dpp0015</a></td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+<div id="map_data">
+%map_data
+</div>
+<div id="zonal_avg"><h3>Zonal Averages</h3>
+<p>Below is an interactive plot of zonal averages for different variables and regions
+   You can select the variables and regions using the drop down menues in to top.
+</p>
+%zonal_plot
+</div>
+
+<div id="time_series"><h3>Time Series</h3>
+<p>Below are various interactive time series of different variables and regions.
+   You can select the variables and regions using the drop down menues in to top.
+</p>
+%time_series_plot
+</div>
+<div id="vertical_profile"><h3>Vertical Profiles</h3>
+<p>Below are various interactive vertical profiles of different variables and regions.
+   You can select the variables and regions using the drop down menues in to top.
+</p>
+%vert_profile
+</div>
+<div id="animations">
+%animations
+</div>
+</main>
+</body>
+</html>
