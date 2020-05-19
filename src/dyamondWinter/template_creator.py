@@ -204,7 +204,7 @@ def get_figures(tmpl, suffix, config):
     sub_dirs = sorted([x for x in p.iterdir() if x.is_dir() if 'ceres' not in str(x) and 'vs' in str(x)])
     map_section = ''
     for sub_dir in sub_dirs+[p / 'ceres']:
-        map_files = get_files(sub_dir.absolute(), suffix='png')
+        map_files = get_files(sub_dir, suffix='png')
         if map_files:
             if 'ceres' in sub_dir.name:
                 header = 'ceres comparisons'
