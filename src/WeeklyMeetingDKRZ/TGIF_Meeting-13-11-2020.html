@@ -14,8 +14,8 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 <!-- General and theme style sheets -->
-<link rel="stylesheet" href="/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/css/reveal.css">
-<link rel="stylesheet" href="/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/css/custom.css" id="theme">
+<link rel="stylesheet" href="../karabo_data-talk/reveal.js/css/reveal.css">
+<link rel="stylesheet" href="../karabo_data-talk/reveal.js/css/custom.css" id="theme">
 
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
 <script>
@@ -23,7 +23,7 @@ if( window.location.search.match( /print-pdf/gi ) ) {
         var link = document.createElement( 'link' );
         link.rel = 'stylesheet';
         link.type = 'text/css';
-        link.href = '/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/css/print/pdf.css';
+        link.href = '../karabo_data-talk/reveal.js/css/print/pdf.css';
         document.getElementsByTagName( 'head' )[0].appendChild( link );
 }
 
@@ -13826,8 +13826,8 @@ require(
       waitSeconds: 15
     },
     [
-      "/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/lib/js/head.min.js",
-      "/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/js/reveal.js"
+      "../karabo_data-talk/reveal.js/lib/js/head.min.js",
+      "../karabo_data-talk/reveal.js/js/reveal.js"
     ],
 
     function(head, Reveal){
@@ -13842,9 +13842,9 @@ require(
 
             // Optional libraries used to extend on reveal.js
             dependencies: [
-                { src: "/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/lib/js/classList.js",
+                { src: "../karabo_data-talk/reveal.js/lib/js/classList.js",
                   condition: function() { return !document.body.classList; } },
-                { src: "/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/plugin/notes/notes.js",
+                { src: "../karabo_data-talk/reveal.js/plugin/notes/notes.js",
                   async: true,
                   condition: function() { return !!document.body.classList; } }
             ]
@@ -13892,8 +13892,8 @@ require(
       waitSeconds: 15
     },
     [
-      "/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/lib/js/head.min.js",
-      "/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/js/reveal.js"
+      "../karabo_data-talk/reveal.js/lib/js/head.min.js",
+      "../karabo_data-talk/reveal.js/js/reveal.js"
     ],
     function(head, Reveal){
         // Full list of configuration options available here: https://github.com/hakimel/reveal.js#configuration
@@ -13908,9 +13908,9 @@ require(
             transition: Reveal.getQueryHash().transition || 'cube', // default/cube/page/concave/zoom/linear/none
             // Optional libraries used to extend on reveal.js
             dependencies: [
-                { src: "/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/lib/js/classList.js",
+                { src: "../karabo_data-talk/reveal.js/lib/js/classList.js",
                   condition: function() { return !document.body.classList; } },
-                { src: "/home/unimelb.edu.au/mbergemann/.anaconda3/lib/python3.7/site-packages/Nb2Slides/config/reveal.js/plugin/notes/notes.js",
+                { src: "../karabo_data/reveal.js/plugin/notes/notes.js",
                   async: true,
                   condition: function() { return !!document.body.classList; } },
                 { src: 'plugin/title-footer/title-footer.js', async: true, callback: function() { title_footer.initialize(
