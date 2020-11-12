@@ -8,7 +8,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-<title>EuXFEL Data Analysis</title>
+<title>EuXFEL DA</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -13412,7 +13412,7 @@ $(document).ready(function(){
     <figcaption style="text-align: center">Single Particle Biology Instrument (SPB)</figcaption></figure>
 </div>
 </div>
-</div></section><section>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -13436,19 +13436,71 @@ $(document).ready(function(){
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><h2>Adaptive Gain Adaptive Gain Integrating Pixel Detector (AGIPD)<br><br></h2></p>
-<div style="clear: left;">
-    <p style="float: left;"><img src="AGIPD.jpeg" height="200" width="200" border="50px"></p>
-    <ul style="float: right;">
+<style>
+#zoom-img {
+  width: 338px;
+  height: 338px;
+  background: url("AGIPD.jpeg");
+  background-position: left;
+  background-size: cover;
+  float: left;
+}
+</style><p><div style="clear: left;"></p>
+<p><div id="zoom-img" ></div>
+  <ul style="float: right;">
     <li>Multiple Panels Detecting Signals Independently</li>
     <li>Hole - Variable Geometry</li>
     <li>Records at 500 MHz = 2.6 GB/s</li>
- </ul>
-</div>
+ </ul></p>
+<script>
+// CREDITS TO https://www.cssscript.com/image-zoom-pan-hover-detail-view/
+var addZoom = function (target) {
+  // FETCH CONTAINER + IMAGE
+  var container = document.getElementById(target),
+      imgsrc = container.currentStyle || window.getComputedStyle(container, false),
+      imgsrc = imgsrc.backgroundImage.slice(4, -1).replace(/"/g, ""),
+      img = new Image();
+
+  // LOAD IMAGE + ATTACH ZOOM
+  img.src = imgsrc;
+  img.onload = function () {
+    var imgWidth = img.naturalWidth,
+        imgHeight = img.naturalHeight,
+        ratio = imgHeight / imgWidth,
+        percentage = ratio * 100 + '%';
+
+    // ZOOM ON MOUSE MOVE
+    container.onmousemove = function (e) {
+      var boxWidth = container.clientWidth,
+          xPos = e.pageX - this.offsetLeft,
+          yPos = e.pageY - this.offsetTop,
+          xPercent = xPos / (boxWidth / 100) + '%',
+          yPercent = yPos / (boxWidth * ratio / 100) + '%';
+
+      Object.assign(container.style, {
+        backgroundPosition: xPercent + ' ' + yPercent,
+        backgroundSize: imgWidth + 'px'
+      });
+    };
+
+    // RESET ON MOUSE LEAVE
+    container.onmouseleave = function (e) {
+      Object.assign(container.style, {
+        backgroundPosition: 'center',
+        backgroundSize: 'cover'
+      });
+    };
+  }
+};
+window.addEventListener("load", function(){
+  addZoom("zoom-img");
+});
+</script>
 </div>
 </div>
 </div></section></section><section><section>
@@ -13470,7 +13522,7 @@ $(document).ready(function(){
     <figcaption style="text-align: right"></figcaption></figure>
 </div>
 </div>
-</div></section></section><section><section>
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -13494,7 +13546,7 @@ $(document).ready(function(){
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -13535,7 +13587,7 @@ total 92G
     <figcaption style="text-align: right"></figcaption></figure>
 </div>
 </div>
-</div></section></section><section><section>
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -13575,7 +13627,7 @@ Last train ID:  <span class="m">198425396</span>
 
 </div>
 </div>
-</div></section><section>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
