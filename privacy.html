@@ -134,35 +134,71 @@
 </nav>
 
 
-
 <main role='main'>
-<article>
+h1>Privacy Policy — Canon Photo Uploader (Personal)</h1>
+    <p><em>Effective date: 16 August 2025</em></p>
 
-<!--<br><br><br><br><p>-->
-<br><p>
-<div class="card">
-  <img src="src/pic/Portrait-1.jpg" alt="Martin" style="width:100%">
-  <div class="card-container">
-    <h1 class='contact'>Martin Bergemann, PhD</h1>
-    <p class="title">Software Engineer - Data Analysis</p>
-    <p>Europen X-ray Free Electron Laser Facility</p>
-    <br>
-    <p>Contact via<p>
-    <a class='contact'  href="mailto:martin.bergemann@unimelb.edu.au" target=_blank><i class="fa fa-paper-plane fa-1x"></i></a>
-    <a class='contact'  href="http://orcid.org/0000-0003-0604-4103" target=_blank><i class="ai ai-orcid ai-2x"></i></a>
-    <a class='contact'  href="https://www.researchgate.net/profile/Martin_Bergemann" target=_blank><i class="ai ai-researchgate ai-2x"></i></a>
-    <a class='contact' href="https://github.com/antarcticrainforest" target=_blank><i class="fa fa-github-alt fa-2x"></i></a>
-    <a class='contact' href="https://www.linkedin.com/in/martin-bergemann-3453b9141" target=_blank><i class="fa fa-linkedin fa-2x"></i></a>
-    <a class='contact' href="https://scholar.google.com.au/citations?user=rEVoxcQAAAAJ&hl=en" target=_blank><i class="ai ai-google-scholar-square ai-2x"></i></a>
-   <p><a class='contact' href="https://antarcticrainforest.github.io/portfolio" target=_blank><button class='contact'>See my GitHub Porfolio</button></a></p>
-  </div>
-</div>
-</p>
-</article>
+    <h2>Summary</h2>
+    <p>
+      This is a personal desktop script used by the developer to upload locally stored
+      photos to Google Photos. It has no server backend. All processing happens on the
+      user’s own machine.
+    </p>
+
+    <h2>Data the app accesses</h2>
+    <ul>
+      <li><strong>Google Photos (app-created data only):</strong> The app uploads images and
+          creates/uses an app-created album (“Canon”). It may set the item <em>description</em>.
+          It does not read, list, or modify user-created or shared albums/items outside the
+          app-created scope.</li>
+      <li><strong>Local files:</strong> JPEG files selected from the user’s computer are read for upload.</li>
+      <li><strong>OAuth tokens:</strong> A Google OAuth refresh token and access tokens are stored
+          locally on the user’s device to enable uploads without repeated sign-in.</li>
+    </ul>
+
+    <h2>How the data is used</h2>
+    <ul>
+      <li>To upload the selected JPEG files to the user’s Google Photos library.</li>
+      <li>To create/find the “Canon” album and add uploaded items to it.</li>
+      <li>(Optional) To set a textual description on app-created items.</li>
+    </ul>
+
+    <h2>Data sharing</h2>
+    <p>No personal data or media is shared with third parties. The app communicates only with Google’s Photos Library API.</p>
+
+    <h2>Data storage & security</h2>
+    <ul>
+      <li>No server-side storage. The app stores a Google OAuth credential file (including a refresh token) <em>only on the user’s device</em> (e.g., <code>~/.config/photo-uploader/photos_token.json</code>).</li>
+      <li>Users can delete this file at any time and revoke access in their Google Account settings (Security → Third-party access).</li>
+      <li>Network communication to Google uses HTTPS.</li>
+    </ul>
+
+    <h2>User controls</h2>
+    <ul>
+      <li>Delete or manage uploaded items directly in Google Photos.</li>
+      <li>Revoke the app’s access in Google Account → Security → Third-party access.</li>
+      <li>Delete the local credential file to remove stored tokens on the device.</li>
+    </ul>
+
+    <h2>Legal basis & GDPR (EU/EEA)</h2>
+    <p>
+      Processing is based on the user’s consent (OAuth). As an EU user, you may request access, correction,
+      or erasure of your personal data handled by this app (primarily the locally stored credential file).
+      For Google Photos content itself, use Google Photos’ own data controls.
+    </p>
+
+    <h2>Children’s privacy</h2>
+    <p>This app is not directed to children under 16 and should not be used by them.</p>
+
+    <h2>Changes</h2>
+    <p>Any material changes to this policy will be updated on this page with a new effective date.</p>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:mbergemann47@gmail.com">mbergemann47@gmail.com</a></p>
 </main>
 <footer>
-<a class='link' href="https://antarcticrainforest.github.io/portfolio" target=_blank onmouseover="Tip('See the porjects I have been working on')" onmouseout="UnTip()">Contact</a>
-<a class='contact'  href="mailto:martin.bergemann@unimelb.edu.edu" target=_blank onmouseover="Tip('EMail')" onmouseout="UnTip()"><i class="fa fa-paper-plane fa-1x"></i></a>
+<a class='link' href="mailto:martin.bergemann@monash.edu" target=_blank onmouseover="Tip('Get in Contact with me')" onmouseout="UnTip()">Contact</a>
+<a class='contact'  href="mailto:martin.bergemann@monash.edu" target=_blank onmouseover="Tip('EMail')" onmouseout="UnTip()"><i class="fa fa-paper-plane fa-1x"></i></a>
 <a class='contact'  href="http://orcid.org/0000-0003-0604-4103" target=_blank onmouseover="Tip('OrcId')" onmouseout="UnTip()"><i class="ai ai-orcid ai-1x"></i></a>
 <a class='contact'  href="https://www.researchgate.net/profile/Martin_Bergemann" target=_blank onmouseover="Tip('ResearchGate')" onmouseout="UnTip()"><i class="ai ai-researchgate ai-1x"></i></a>
 <a class='contact' href="https://github.com/antarcticrainforest" target=_blank onmouseover="Tip('My Software on GitHub')" onmouseout="UnTip()"><i class="fa fa-github-alt fa-1x"></i></a>
